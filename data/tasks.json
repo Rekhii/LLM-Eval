@@ -22,7 +22,7 @@
       "location": ["Bengaluru"],
       "years_experience": 2,
       "employment_type": "Full Time, Permanent",
-      "education_required": "Bachelor's degree in Computer Science, Data Science, Engineering, Information Technology, or a related field",
+      "education_required": "Any Graduate",
       "remote": "unclear",
       "salary_min": null
     }
@@ -36,7 +36,7 @@
       "location": ["Mumbai", "Pune", "Chennai", "Gurugram", "Bengaluru"],
       "years_experience": 11,
       "employment_type": "Full Time, Permanent",
-      "education_required": "Bachelor's or Master's degree in Data Science, Computer Science, or a related field",
+      "education_required": "Any Graduate",
       "remote": "unclear",
       "salary_min": null
     }
@@ -48,7 +48,7 @@
       "title": "ML Engineer I",
       "company": "UST",
       "location": ["Mumbai"],
-      "years_experience": 4,
+      "years_experience": 5,
       "employment_type": "Full Time, Permanent",
       "education_required": "Any Graduate",
       "remote": "unclear",
@@ -78,7 +78,7 @@
       "location": ["Noida", "Gurugram"],
       "years_experience": 10,
       "employment_type": "Full Time, Permanent",
-      "education_required": "Bachelor's or Master's degree in Computer Science, Data Science, or a related technical discipline",
+      "education_required": "Any Graduate",
       "remote": "unclear",
       "salary_min": null
     }

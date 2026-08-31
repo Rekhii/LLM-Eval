@@ -1,0 +1,599 @@
+{
+  "timestamp": "2026-08-31T10:10:56.043619+00:00",
+  "models": [
+    "gemini-3.5-flash-lite",
+    "openai/gpt-oss-20b",
+    "openai/gpt-oss-120b"
+  ],
+  "runs": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 1,
+      "file": "001.txt",
+      "raw": "{\n  \"title\": \"ML Engineer + Data Scientist\",\n  \"company\": \"LTM\",\n  \"location\": [\n    \"Pune\"\n  ],\n  \"years_experience\": 8,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer + Data Scientist",
+        "company": "LTM",
+        "location": [
+          "Pune"
+        ],
+        "years_experience": 8,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "hybrid",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 2,
+      "file": "002.txt",
+      "raw": "{\n  \"title\": \"Data Scientist/Software Developer\",\n  \"company\": \"Xylem Water Solutions\",\n  \"location\": [\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "Data Scientist/Software Developer",
+        "company": "Xylem Water Solutions",
+        "location": [
+          "Bengaluru"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 3,
+      "file": "003.txt",
+      "raw": "{\n  \"title\": \"Principal/Lead Data Scientist\",\n  \"company\": \"Fractal Analytics\",\n  \"location\": [\n    \"Mumbai\",\n    \"Pune\",\n    \"Chennai\",\n    \"Gurugram\",\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 11,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "Principal/Lead Data Scientist",
+        "company": "Fractal Analytics",
+        "location": [
+          "Mumbai",
+          "Pune",
+          "Chennai",
+          "Gurugram",
+          "Bengaluru"
+        ],
+        "years_experience": 11,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 4,
+      "file": "004.txt",
+      "raw": "{\n  \"title\": \"ML Engineer I\",\n  \"company\": \"UST\",\n  \"location\": [\n    \"Mumbai\"\n  ],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer I",
+        "company": "UST",
+        "location": [
+          "Mumbai"
+        ],
+        "years_experience": 5,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 5,
+      "file": "005.txt",
+      "raw": "{\n  \"title\": \"ML Engineer, LLM Training (evals)\",\n  \"company\": \"eka.care\",\n  \"location\": [\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 1,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer, LLM Training (evals)",
+        "company": "eka.care",
+        "location": [
+          "Bengaluru"
+        ],
+        "years_experience": 1,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 6,
+      "file": "006.txt",
+      "raw": "{\n  \"title\": \"GenAI/ML Engineers\",\n  \"company\": \"NTT DATA BUSINESS SOLUTIONS\",\n  \"location\": [\n    \"Noida\",\n    \"Gurugram\"\n  ],\n  \"years_experience\": 10,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "GenAI/ML Engineers",
+        "company": "NTT DATA BUSINESS SOLUTIONS",
+        "location": [
+          "Noida",
+          "Gurugram"
+        ],
+        "years_experience": 10,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 7,
+      "file": "007.txt",
+      "raw": "{\n  \"title\": \"ML Engineer - Speech / Vision\",\n  \"company\": \"Deccan Ai\",\n  \"location\": [\n    \"Hyderabad\"\n  ],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer - Speech / Vision",
+        "company": "Deccan Ai",
+        "location": [
+          "Hyderabad"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 8,
+      "file": "008.txt",
+      "raw": "{\n  \"title\": \"ML Engineer - Robotics\",\n  \"company\": \"Deccan Ai\",\n  \"location\": [\n    \"Hyderabad\"\n  ],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer - Robotics",
+        "company": "Deccan Ai",
+        "location": [
+          "Hyderabad"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 9,
+      "file": "009.txt",
+      "raw": "{\n  \"title\": \"ML Engineer Adtech\",\n  \"company\": \"Crevia Infotech\",\n  \"location\": [\n    \"India\"\n  ],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer Adtech",
+        "company": "Crevia Infotech",
+        "location": [
+          "India"
+        ],
+        "years_experience": 5,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "id": 10,
+      "file": "010.txt",
+      "raw": "{\n  \"title\": \"GenAI / ML Engineer-Sri\",\n  \"company\": \"Tata Consultancy Services\",\n  \"location\": [\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "GenAI / ML Engineer-Sri",
+        "company": "Tata Consultancy Services",
+        "location": [
+          "Bengaluru"
+        ],
+        "years_experience": 5,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 1,
+      "file": "001.txt",
+      "raw": "{\"title\":\"ML Engineer + Data Scientist\",\"company\":\"LTM\",\"location\":[\"Pune\"],\"years_experience\":8,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"hybrid\",\"salary_min\":null}",
+      "predicted": {
+        "title": "ML Engineer + Data Scientist",
+        "company": "LTM",
+        "location": [
+          "Pune"
+        ],
+        "years_experience": 8,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "hybrid",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 2,
+      "file": "002.txt",
+      "raw": "{\"title\":\"Data Scientist/Software Developer\",\"company\":\"Xylem Water Solutions\",\"location\":[\"Bengaluru\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelor's degree in Computer Science, Data Science, Engineering, Information Technology, or a related field\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "predicted": {
+        "title": "Data Scientist/Software Developer",
+        "company": "Xylem Water Solutions",
+        "location": [
+          "Bengaluru"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Bachelor's degree in Computer Science, Data Science, Engineering, Information Technology, or a related field",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 3,
+      "file": "003.txt",
+      "raw": "{\"title\":\"Principal/Lead Data Scientist\",\"company\":\"Fractal Analytics\",\"location\":[\"Mumbai\",\"Pune\",\"Chennai\",\"Gurugram\",\"Bengaluru\"],\"years_experience\":11,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelors or Masters degree in Data Science, Computer Science or a related field.\",\"remote\":null,\"salary_min\":null}",
+      "predicted": {
+        "title": "Principal/Lead Data Scientist",
+        "company": "Fractal Analytics",
+        "location": [
+          "Mumbai",
+          "Pune",
+          "Chennai",
+          "Gurugram",
+          "Bengaluru"
+        ],
+        "years_experience": 11,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Bachelors or Masters degree in Data Science, Computer Science or a related field.",
+        "remote": null,
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 4,
+      "file": "004.txt",
+      "raw": "{\"title\":\"ML Engineer I\",\"company\":\"UST\",\"location\":[\"Mumbai\",\"Nesco\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "predicted": {
+        "title": "ML Engineer I",
+        "company": "UST",
+        "location": [
+          "Mumbai",
+          "Nesco"
+        ],
+        "years_experience": 5,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "onsite",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 5,
+      "file": "005.txt",
+      "raw": "{\"title\":\"ML Engineer, LLM Training (evals)\",\"company\":\"eka.care\",\"location\":[\"Bengaluru\"],\"years_experience\":1,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "predicted": {
+        "title": "ML Engineer, LLM Training (evals)",
+        "company": "eka.care",
+        "location": [
+          "Bengaluru"
+        ],
+        "years_experience": 1,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 6,
+      "file": "006.txt",
+      "raw": "{\"title\":\"GenAI/ML Engineers\",\"company\":\"NTT DATA BUSINESS SOLUTIONS\",\"location\":[\"Noida\",\"Gurugram\"],\"years_experience\":10,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "predicted": {
+        "title": "GenAI/ML Engineers",
+        "company": "NTT DATA BUSINESS SOLUTIONS",
+        "location": [
+          "Noida",
+          "Gurugram"
+        ],
+        "years_experience": 10,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 7,
+      "file": "007.txt",
+      "raw": "{\"title\":\"ML Engineer - Speech / Vision\",\"company\":\"Deccan Ai\",\"location\":[\"Hyderabad\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "predicted": {
+        "title": "ML Engineer - Speech / Vision",
+        "company": "Deccan Ai",
+        "location": [
+          "Hyderabad"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 8,
+      "file": "008.txt",
+      "raw": "{\"title\":\"ML Engineer - Robotics\",\"company\":\"Deccan Ai\",\"location\":[\"Hyderabad\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "predicted": {
+        "title": "ML Engineer - Robotics",
+        "company": "Deccan Ai",
+        "location": [
+          "Hyderabad"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "onsite",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 9,
+      "file": "009.txt",
+      "raw": "{\"title\":\"ML Engineer Adtech\",\"company\":\"Crevia Infotech\",\"location\":[\"India\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "predicted": {
+        "title": "ML Engineer Adtech",
+        "company": "Crevia Infotech",
+        "location": [
+          "India"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "onsite",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "id": 10,
+      "file": "010.txt",
+      "raw": "{\"title\":\"GenAI / ML Engineer\",\"company\":\"Tata Consultancy Services\",\"location\":[\"Bangalore\",\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "predicted": {
+        "title": "GenAI / ML Engineer",
+        "company": "Tata Consultancy Services",
+        "location": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "years_experience": 5,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 1,
+      "file": "001.txt",
+      "raw": "{\n  \"title\": \"ML Engineer + Data Scientist\",\n  \"company\": \"LTM\",\n  \"location\": [\"Pune\"],\n  \"years_experience\": 8,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer + Data Scientist",
+        "company": "LTM",
+        "location": [
+          "Pune"
+        ],
+        "years_experience": 8,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "hybrid",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 2,
+      "file": "002.txt",
+      "raw": "{\n  \"title\": \"Data Scientist/Software Developer\",\n  \"company\": \"Xylem Water Solutions\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "Data Scientist/Software Developer",
+        "company": "Xylem Water Solutions",
+        "location": [
+          "Bengaluru"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 3,
+      "file": "003.txt",
+      "raw": "{\n  \"title\": \"Principal/Lead Data Scientist\",\n  \"company\": \"Fractal Analytics\",\n  \"location\": [\"Mumbai\", \"Pune\", \"Chennai\", \"Gurugram\", \"Bengaluru\"],\n  \"years_experience\": 11,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "Principal/Lead Data Scientist",
+        "company": "Fractal Analytics",
+        "location": [
+          "Mumbai",
+          "Pune",
+          "Chennai",
+          "Gurugram",
+          "Bengaluru"
+        ],
+        "years_experience": 11,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 4,
+      "file": "004.txt",
+      "raw": "{\n  \"title\": \"ML Engineer I\",\n  \"company\": \"UST\",\n  \"location\": [\"Mumbai\", \"Nesco\"],\n  \"years_experience\": 4,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer I",
+        "company": "UST",
+        "location": [
+          "Mumbai",
+          "Nesco"
+        ],
+        "years_experience": 4,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 5,
+      "file": "005.txt",
+      "raw": "{\n  \"title\": \"ML Engineer, LLM Training (evals)\",\n  \"company\": \"eka.care\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 1,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer, LLM Training (evals)",
+        "company": "eka.care",
+        "location": [
+          "Bengaluru"
+        ],
+        "years_experience": 1,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "onsite",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 6,
+      "file": "006.txt",
+      "raw": "{\n  \"title\": \"GenAI/ML Engineers\",\n  \"company\": \"NTT DATA BUSINESS SOLUTIONS\",\n  \"location\": [\"Noida\", \"Gurugram\"],\n  \"years_experience\": 10,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "GenAI/ML Engineers",
+        "company": "NTT DATA BUSINESS SOLUTIONS",
+        "location": [
+          "Noida",
+          "Gurugram"
+        ],
+        "years_experience": 10,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 7,
+      "file": "007.txt",
+      "raw": "{\n  \"title\": \"ML Engineer - Speech / Vision\",\n  \"company\": \"Deccan Ai\",\n  \"location\": [\"Hyderabad\"],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer - Speech / Vision",
+        "company": "Deccan Ai",
+        "location": [
+          "Hyderabad"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "onsite",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 8,
+      "file": "008.txt",
+      "raw": "{\n  \"title\": \"ML Engineer - Robotics\",\n  \"company\": \"Deccan Ai\",\n  \"location\": [\"Hyderabad\"],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer - Robotics",
+        "company": "Deccan Ai",
+        "location": [
+          "Hyderabad"
+        ],
+        "years_experience": 2,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "onsite",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 9,
+      "file": "009.txt",
+      "raw": "{\n  \"title\": \"ML Engineer Adtech\",\n  \"company\": \"Crevia Infotech\",\n  \"location\": [\"India\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "ML Engineer Adtech",
+        "company": "Crevia Infotech",
+        "location": [
+          "India"
+        ],
+        "years_experience": 5,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "onsite",
+        "salary_min": null
+      },
+      "error": null
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "id": 10,
+      "file": "010.txt",
+      "raw": "{\n  \"title\": \"GenAI / ML Engineer-Sri\",\n  \"company\": \"Tata Consultancy Services\",\n  \"location\": [\"Bengaluru\", \"Bangalore\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "predicted": {
+        "title": "GenAI / ML Engineer-Sri",
+        "company": "Tata Consultancy Services",
+        "location": [
+          "Bengaluru",
+          "Bangalore"
+        ],
+        "years_experience": 5,
+        "employment_type": "Full Time, Permanent",
+        "education_required": "Any Graduate",
+        "remote": "unclear",
+        "salary_min": null
+      },
+      "error": null
+    }
+  ]
+}
