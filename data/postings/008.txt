@@ -1,0 +1,56 @@
+ML Engineer - Robotics
+Deccan Ai
+2.624 Reviews
+Deccan Ai logo
+2 - 4 years
+Not Disclosed
+Hyderabad
+Posted: 6 days ago
+Openings: 1
+Applicants: 50+
+
+Continue with Google
+Company Logo
+ML Engineer - Robotics
+Deccan Ai
+2.624 Reviews
+Apply
+Job description
+About Deccan AI
+Deccan AI is a fast-growing, venture-backed AI infrastructure company focused on training, evaluating, and improving next-generation AI systems. Headquartered in the Bay Area, with a growing India hub in Hyderabad, the company was founded by alumni of IIT Bombay, IIM Ahmedabad, and former Google leaders.
+We work with some of the worlds leading AI frontier labs and research organizations, including Google DeepMind, Snowflake, and other cutting-edge AI teams. Backed by Prosus Ventures, Deccan AI recently raised $25M in Series A funding and is entering a significant growth phase.
+With a global network of over 1 million experts, advanced automation systems, and vertically integrated platforms, we deliver the high-quality data and evaluation infrastructure that state-of-the-art AI models depend on. As the AI infrastructure market rapidly expands, Deccan AI is building the systems powering the future of AI.
+
+About the Role
+Were hiring an ML Engineer to work on Robotics, partnering directly with a frontier AI lab. Youll work on embodied AI perception, manipulation, and navigation systems that bridge the gap between simulation and the real world.
+
+What Youll Do
+Build perception systems for robotic manipulation and navigation
+Develop sim-to-real pipelines to transfer learned policies from simulation to physical systems
+Work on motion planning, trajectory optimization, and imitation learning
+Collaborate with hardware and controls teams on real-world robot deployment
+Debug and iterate on models running on physical or simulated robotic systems
+What Were Looking For
+2-4 years of hands-on experience in robotics, perception, or embodied AI
+Strong Python and/or C++ skills
+Familiarity with ROS/ROS2, MuJoCo, Isaac Sim/Isaac Gym, Gazebo, or PyBullet
+Understanding of core robotics concepts: SLAM, kinematics, grasping, motion planning
+Bonus: experience with sim-to-real transfer, imitation learning, or humanoid/manipulation systems
+Why Join
+Direct exposure to frontier-lab-scale embodied AI problems
+Work alongside top ML research and engineering talent
+High-ownership role with real technical depth
+
+
+
+Disclaimer: This job description has been sourced from a public domain and may have been modified by Naukri.com to improve clarity for our users. We encourage job seekers to verify all details directly with the employer via their official channels before applying.
+Role: Blockchain Quality Assurance Engineer
+Industry Type: Software Product
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+frontiersnowflakepythondebugautomation systemsaiai infrastructureroboticsresearchnavigationautomationnavigation systemsrosml engineerai modelsdeploymentml

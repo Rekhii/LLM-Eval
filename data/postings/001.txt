@@ -1,0 +1,50 @@
+ML Engineer + Data Scientist
+LTM
+3.627.6K Reviews
+LTM logo
+8 - 12 years
+Not Disclosed
+Hybrid
+Pune
+Posted: 1 week ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+ML Engineer + Data Scientist
+LTM
+3.627.6K Reviews
+Apply
+Job description
+AI Engineer with more focus on ML + ML OPS + Python
+
+
+Machine Learning Engineering:
+
+Design, develop, train, and deploy Machine Learning and Deep Learning models for business use cases.
+Build scalable ML pipelines for data ingestion, feature engineering, model training, and inference.
+Optimize model performance, accuracy, latency, and scalability.
+Implement MLOps practices including CI/CD, model monitoring, versioning, and automated retraining.
+Deploy ML models in cloud environments using containerization and orchestration technologies.
+Collaborate with software engineering teams to integrate AI/ML solutions into production applications.
+
+Data Science:
+
+Analyze large structured and unstructured datasets to identify trends, patterns, and actionable insights.
+Perform exploratory data analysis (EDA) and statistical modeling.
+Develop predictive, classification, recommendation, forecasting, and anomaly detection models.
+Conduct A/B testing and hypothesis validation to support business decisions.
+Create data visualizations, dashboards, and executive-level insights.
+Work closely with business stakeholders to translate business problems into AI/ML solutions.
+Role: Data Scientist
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Machine LearningPython
+Data ScienceML EngineerArtificial IntelligenceAimlCi/Cd

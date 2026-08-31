@@ -1,0 +1,56 @@
+ML Engineer I
+UST
+3.75.9K Reviews
+UST logo
+5 - 7 years
+Not Disclosed
+Mumbai
+Posted: 6 days ago
+Openings: 1
+Applicants: 17
+
+Continue with Google
+Company Logo
+ML Engineer I
+UST
+3.75.9K Reviews
+Apply
+Job description
+Job Summary
+Role: AI Forward Engineer - Apollo ISG Nesco Experience: 4 to 8 years. Location: Mumbai, Nesco.
+
+Responsibilities
+Build production Gen AI and agentic components inside our operations platforms, primarily document and email reading, extraction, classification and enrichment feeding downstream posting into PAM and other systems.
+Design prompt and configuration driven pipelines so a reader built for one workflow can be extended to another asset class or servicer without a code rewrite.
+Own the accuracy and control layer, deterministic validation, exception routing, evaluation harnesses and regression testing of model outputs.
+Work directly with Loan Ops and Investment Ops users to convert manual processes into straight-through flows, including requirement shaping, not just delivery.
+Ship end to end, API, workflow orchestration and the front end needed for Ops to review and act on exceptions.
+Requirements
+Strong Python, plus one of C#/.NET or TypeScript.
+Solid SQL.
+Hands-on production experience with LLM applications, RAG, structured extraction from unstructured documents and emails, prompt engineering and output validation.
+Agent frameworks and tool/function calling.
+Cloud native delivery on Azure/AKS, containers, CI/CD.
+Workflow orchestration experience, Temporal preferred.
+Ability to work directly with business users and translate an operational process into a system design.
+Nice to have
+Financial services operations background, loan servicing, remittance, custody, accounting or investment operations.
+Snowflake or similar data platform, React front end exposure, Okta based access models.
+Evaluation and observability tooling for AI systems.
+What we are screening for
+Evidence of AI features actually running in production with users, not proof of concept work.
+Judgement on where AI should and should not be used, and comfort putting deterministic controls around model output.
+Speed and ownership. This team ships small increments directly to Ops every sprint.
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Search Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: LLM in Law
+Key Skills
+front endpythonorchestrationaiaksdownstreamreactaccountingclassificationllmfinancial servicesinvestment operationscloud nativecloudloan servicingoperationsregressionragml engineerobservabilityoktaazureml

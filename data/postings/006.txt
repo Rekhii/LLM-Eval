@@ -1,0 +1,62 @@
+GenAI/ML Engineers
+NTT DATA BUSINESS SOLUTIONS
+4.12.2K Reviews
+NTT DATA BUSINESS SOLUTIONS logo
+10 - 15 years
+Not Disclosed
+Noida, Gurugram
+Posted: 5 days ago
+Applicants: 50+
+
+Continue with Google
+Company Logo
+GenAI/ML Engineers
+NTT DATA BUSINESS SOLUTIONS
+4.12.2K Reviews
+Apply
+Job description
+Software Development Engineer AI/ML
+This position provides a seasoned AI/ML engineer with an opportunity to help transform enterprise data, workflows, and legacy systems into modern, AI-enabled capabilities that enhance decision-making across SP Globals products. As an AI/ML Engineer, you will foster a strong sense of collaboration while working closely with internal business partners, data stakeholders, software engineers, and product teams to deliver measurable business outcomes.
+Technically, you will design, develop, deploy, and maintain AI/ML solutions that leverage modern cloud-native architectures on AWS. You will apply emerging and established techniques across the end-to-end AI/ML lifecycle, including data engineering, model development, evaluation, deployment, monitoring, and production support. Your experience with applied machine learning, Generative AI, Large Language Models, and integration of AI capabilities into production systems will be used extensively in this role.
+At SP Global, we use modern engineering platforms and services such as GitHub, TeamCity, AWS, Datadog, Artifactory, Confluence, Jira, and CI/CD practices to support rapid delivery. You will also use AI-assisted engineering tools such as GitHub Copilot to improve developer productivity across tasks such as building data pipelines, accelerating experimentation, generating and refining code, improving documentation, and supporting automated testing, while validating outputs and ensuring alignment with responsible AI practices. You will be working in a fast-paced environment, leveraging modern engineering practices to improve code quality, model governance, operational readiness, scalability, and delivery efficiency.
+Role Overview:
+We are seeking a highly skilled and motivated AI/ML Engineer to join our team. The ideal candidate will have a strong background in machine learning and data science, with experience working on large-scale machine learning projects.
+As an AI/ML Engineer, you will be responsible for designing, implementing, and optimizing machine learning models, AI applications, and algorithms to solve complex business problems. You will work closely with cross-functional teams, including data scientists, software engineers, product managers, and business stakeholders, to develop innovative solutions that drive business growth.
+Requirements:
+Bachelors or masters degree in Computer Science, Data Science, or a related technical discipline.
+10+ years of overall software development experience, including 3+ years of hands-on experience in machine learning or AI application development, with a proven track record of delivering production-grade solutions.
+Strong programming proficiency in Python, with demonstrated experience in API development using FastAPI or Flask.
+Backend development experience in C# or Java is considered an added advantage.
+Solid experience developing AI solutions within the AWS ecosystem, including hands-on use of services such as Amazon Bedrock, SageMaker, Lambda, API Gateway, and S3.
+Practical knowledge and implementation experience with Large Language Models and Generative AI frameworks such as LangChain, LlamaIndex, or custom RAG architectures.
+In-depth understanding of RAG systems, including embedding generation, document chunking, retrieval, ranking, and response synthesis.
+Experience with vector databases such as Pinecone, FAISS, or OpenSearch, as well as text embeddings and prompt engineering, is an added advantage.
+Strong understanding of cloud security, including OAuth 2.0-based authentication, IAM policies, secure API design, and data protection practices.
+Familiarity with DevOps practices and tools, including CI/CD pipelines, Docker, and Infrastructure as Code tools such as CloudFormation, AWS CDK, or Terraform.
+Proficiency in relational databases such as SQL and strong understanding of data modelling.
+Solid grasp of machine learning algorithms and techniques, including deep learning architectures.
+Skilled in data preprocessing, feature engineering, and data manipulation using modern data science tools and libraries.
+Demonstrated experience working across the full AI/ML project lifecycle, from business requirements analysis to model deployment and productization.
+Practical experience using AI-assisted engineering tools such as GitHub Copilot or similar capabilities to improve productivity, code quality, documentation, testing, and development efficiency.
+Strong understanding of responsible AI usage in software and AI/ML engineering, including validation of AI-generated outputs, secure coding practices, data privacy, explainability, and adherence to enterprise standards.
+Strong analytical and problem-solving skills, with a structured approach to debugging, model evaluation, performance tuning, and optimization.
+Excellent communication and collaboration abilities, with experience working in cross-functional and agile teams.
+People Skills:
+Ability to translate complex business problems into technical challenges that can be solved using data science, machine learning, and AI techniques.
+Ability to communicate technical ideas, model outcomes, and AI/ML solution approaches effectively to non-technical audiences.
+Ability to work effectively in a team-oriented environment.
+Curious and open-minded attitude toward new approaches, technologies, and methodologies.
+Strong ownership mindset with the ability to drive initiatives from concept through delivery.
+",
+Role: Search Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Agile
+Api GatewayCloud SecurityApi DesignAi SolutionsApi DevelopmentAutomated TestingAiArtifactoryBedrockAws CdkBackend DevelopmentApplication DevelopmentBusiness RequirementsCi/Cd PipelinesAlgorithmsCloudAws

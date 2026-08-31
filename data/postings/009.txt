@@ -1,0 +1,64 @@
+ML Engineer Adtech
+Crevia Infotech
+Crevia Infotech logo
+5 - 7 years
+Not Disclosed
+India
+Posted: 1 week ago
+Openings: 1
+Applicants: 50+
+
+Continue with Google
+Company Logo
+ML Engineer Adtech
+Crevia Infotech
+Apply
+Job description
+Role & responsibilities
+
+Working hours: Flexible Hours (Presence from 6 PM IST to 12 AM IST is a must)Masscomcorp is seeking an experienced ML Engineer with a strong background in User Acquisition (UA) for Mobile Gaming and AdTech. The ideal candidate will leverage data-driven insights to optimize user acquisition strategies, enhance campaign performance, and maximize return on investment (ROI). You should have hands-on experience in Machine Learning, Gen AI Applications, Python, SQL, and statistical modelling, along with a deep understanding of marketing analytics, attribution modelling, and programmatic advertising.Heres a quick breakdown of the key responsibilities and skills for this role:Key Responsibilities:
+
+Analyze large datasets from multiple sources (e.g., mobile games, ad networks, MMPs) to drive UA strategy and improve campaign effectiveness.
+Develop predictive models and A/B testing frameworks to optimize ad spend, bidding strategies, and targeting.
+Designing, developing & deploying end-to-end AI/ML solutions using cutting-edge tools and frameworks (e.g., Python, PyTorch, TensorFlow, LightGBM) alongside modern GenAI tools like Langchain/Langgraph etc.
+Implement LTV (Lifetime Value) models, and cohort analysis to inform marketing decisions.
+Work closely with marketing, UA, product, and engineering teams to translate business questions into analytical solutions.
+Use SQL to extract and manipulate data from databases and create dashboards to track key UA performance metrics.
+Utilize Python for automation, machine learning, and data processing to improve efficiency in UA campaigns.
+Collaborate with AdTech partners and MMPs (e.g., Appsflyer, Adjust) to ensure accurate attribution tracking and measurement.
+Stay updated on industry trends in AdTech, gaming UA, and programmatic advertising to recommend new strategies.
+Interact and collaborate with data engineers, Business stakeholders as and when required.
+What to Expect:
+
+This is an individual contributor role, focused on hands-on work.
+The role involves close collaboration with data science and ML teams, as well as development of in-house systems.
+Required Technical Skills:
+
+At least 2+ years of experience in User Acquisition, AdTech, or Gaming analytics.
+Hands-on experience with AdTech platforms, MMPs (Mobile Measurement Partners), and UA tools.
+Demonstrate an a relevant project implementation in User Acquisition in Mobile Marketing/AdTech Space
+Experience with marketing analytics, campaign performance optimization, and attribution modeling.
+Familiarity with A/B testing methodologies, statistical significance, and causal inference techniques.
+Hands-on experience in developing and deploying AI/ML solutions and familiarity with tools such as Pytorch, Tensorflow, Scipy, Sklearn etc
+Exposure to Gen AI tools and techniques such as RAG, Context Engineering, MCP, Agentic AI.
+Ability to use statistics to understand behavior of systems and/or players.
+Ability to communicate complex data insights to non-technical stakeholders.
+Must be thorough and experienced with programming in Python and SQL.
+Prior experience in Apache Spark with ML is a plus
+Team player with excellent organizational, communication and interpersonal skills.
+
+
+
+
+
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+AdtechMachine LearningGaming
+Games

@@ -1,0 +1,44 @@
+GenAI / ML Engineer-Sri
+Tata Consultancy Services
+3.2118.5K Reviews
+Tata Consultancy Services logo
+5 - 10 years
+Not Disclosed
+Bengaluru
+Posted: 1 week ago
+Openings: 10
+Applicants: 31
+
+Continue with Google
+Company Logo
+GenAI / ML Engineer-Sri
+Tata Consultancy Services
+3.2118.5K Reviews
+Apply
+Job description
+Role : GenAI / ML Engineer
+
+Experience:5+Years
+
+Location:Bangalore
+
+
+
+GenAI / ML Engineer:
+
+Python & Async Frameworks: Strong proficiency in Python 3.x and async web frameworks like Fast API or Celery to build high-throughput, multi-tenant background processing microservices.
+GenAI & LLM Orchestration: Hands-on experience with LLM APIs (Google Gemini/Vertex AI or OpenAI) and utilizing tools like Pydantic to enforce strict structured JSON outputs from unstructured data.
+Dynamic Prompt Engineering: Expertise in designing complex system instructions, few-shot prompting templates, and managing advanced model parameters like thinking budgets or temperature.
+Cloud Storage & Data Pipelines: Proficient in managing cloud data streams (Google Cloud Storage or S3) to ingest document assets (PDFs/Images) and orchestrating async polling workflows with automated retry logic.
+ML Ingestion & Evaluation: Experience with ML preprocessing tools (Pandas, NumPy, OCR engines) and setting up statistical thresholds to evaluate extraction confidence scores and failure metrics.
+Role: IT & Information Security - Other
+Industry Type: IT Services & Consulting
+Department: IT & Information Security
+Employment Type: Full Time, Permanent
+Role Category: IT & Information Security - Other
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+generative aiArtificial IntelligenceNatural Language ProcessingMachine LearningDeep Learning
+TensorflowImage ProcessingComputer VisionPython

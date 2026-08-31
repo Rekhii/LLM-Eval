@@ -1,0 +1,56 @@
+ML Engineer - Speech / Vision
+Deccan Ai
+2.624 Reviews
+Deccan Ai logo
+2 - 4 years
+Not Disclosed
+Hyderabad
+Posted: 6 days ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+ML Engineer - Speech / Vision
+Deccan Ai
+2.624 Reviews
+Apply
+Job description
+About Deccan AI
+Deccan AI is a fast-growing, venture-backed AI infrastructure company focused on training, evaluating, and improving next-generation AI systems. Headquartered in the Bay Area, with a growing India hub in Hyderabad, the company was founded by alumni of IIT Bombay, IIM Ahmedabad, and former Google leaders.
+We work with some of the worlds leading AI frontier labs and research organizations, including Google DeepMind, Snowflake, and other cutting-edge AI teams. Backed by Prosus Ventures, Deccan AI recently raised $25M in Series A funding and is entering a significant growth phase.
+With a global network of over 1 million experts, advanced automation systems, and vertically integrated platforms, we deliver the high-quality data and evaluation infrastructure that state-of-the-art AI models depend on. As the AI infrastructure market rapidly expands, Deccan AI is building the systems powering the future of AI.
+
+About the Role
+Were hiring an ML Engineer to work on Speech & Vision systems, partnering directly with a frontier AI lab. Youll build multimodal models that see, hear, and understand working on real perception and generation problems at the cutting edge of computer vision and speech AI.
+
+What Youll Do
+Build and optimize computer vision models for detection, segmentation, and recognition tasks
+Develop speech pipelines spanning ASR (speech-to-text), TTS (text-to-speech), and speaker diarization
+Work on multimodal models that combine vision, audio, and text understanding
+Experiment with diffusion models and generative approaches for vision/audio tasks
+Optimize models for real-world latency, accuracy, and deployment constraints
+What Were Looking For
+2-4 years of hands-on experience in computer vision, speech processing, or multimodal ML
+Strong Python skills and experience with PyTorch/TensorFlow
+Familiarity with OpenCV, YOLO, Detectron2, Whisper, Kaldi, ESPnet, or similar tools
+Solid understanding of core CV/speech concepts: object detection, segmentation, OCR, ASR/TTS pipelines
+Bonus: experience with diffusion models, GANs, or voice cloning systems
+Why Join
+Direct exposure to frontier-lab-scale multimodal AI problems
+Work alongside top ML research and engineering talent
+High-ownership role with real technical depth
+
+
+
+Disclaimer: This job description has been sourced from a public domain and may have been modified by Naukri.com to improve clarity for our users. We encourage job seekers to verify all details directly with the employer via their official channels before applying.
+Role: Machine Learning Engineer
+Industry Type: Software Product
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+frontiersnowflakepythonautomation systemsaiai infrastructureobject detectionresearchautomationspeech aicomputer visionpytorchsegmentationspeech processingml engineerai modelscloningopencvdeploymentmlocr

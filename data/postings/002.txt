@@ -1,0 +1,126 @@
+Data Scientist/Software Developer
+Xylem Water Solutions
+3.7315 Reviews
+Xylem Water Solutions logo
+0 - 4 years
+Not Disclosed
+Bengaluru
+Posted: 2 weeks ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Data Scientist/Software Developer
+Xylem Water Solutions
+3.7315 Reviews
+Apply
+Job description
+Xylem is a Fortune 500 global water solutions company dedicated to advancing sustainable impact and empowering the people who make water work every day. As a leading water technology company with 23,000 employees operating in over 150 countries, Xylem is at the forefront of addressing the worlds most critical water challenges. We invite passionate individuals to join our team, dedicated to exceeding customer expectations through innovative and sustainable solutions.
+
+
+Role Overview
+
+The Data Scientist / Software Developer will take ownership of a lead generation engine built using Kedro pipelines. This individual will be responsible for ensuring the solution remains reliable, maintainable, scalable, and continuously improved over time.
+
+The role requires a strong foundation in Python, including hands-on experience working with Kedro, along with solid SQL skills and comfort working in modern data environments such as Databricks. The candidate should also be able to work effectively with Power BI dashboards and have the maturity and intuition to understand data deeply, identify issues proactively, and drive meaningful enhancements.
+
+Beyond maintenance and troubleshooting, this role is well suited for someone who is curious, takes ownership, enjoys problem-solving, and is eager to contribute to new initiatives involving machine learning and data science.
+
+Key Responsibilities
+
+Own and manage the existing lead generation engine built on Kedro pipelines
+
+Refresh, update, maintain, and enhance the codebase to support evolving business needs
+
+Troubleshoot production and data pipeline issues, identify root causes, and implement durable fixes
+
+Resolve bugs, improve reliability, and ensure the solution remains stable and scalable
+
+Develop, optimize, and maintain Python-based data workflows and supporting application logic
+
+Work with structured and semi-structured data, demonstrating strong intuition and sound judgment in handling data quality, consistency, and usability
+
+Write efficient and reliable SQL queries to support data extraction, transformation, validation, and analysis
+
+Operate effectively in a modern data platform environment, with preference for experience in Databricks
+
+Support, interpret, and interact with Power BI dashboards for business-facing insights and reporting
+
+Collaborate with cross-functional stakeholders, including business teams, analysts, and technical colleagues, to understand requirements and translate them into robust technical solutions
+
+Identify opportunities to improve performance, maintainability, and extensibility of the current solution
+
+Contribute to future-focused initiatives in machine learning, data science, and other innovation-driven projects
+
+Demonstrate a high level of ownership, accountability, and proactive communication in managing deliverables
+
+Required Qualifications
+
+Bachelor s degree in Computer Science, Data Science, Engineering, Information Technology, or a related field
+
+2-4 years of relevant professional experience in software development, data engineering, data science, or related roles
+
+Strong programming skills in Python
+
+Hands-on experience building, maintaining, or enhancing Kedro pipelines
+
+Strong SQL skills, including writing complex queries and working with data transformations
+
+Comfort working with data-intensive systems and a demonstrated ability to understand data deeply and intuitively
+
+Experience troubleshooting technical issues, fixing bugs, and maintaining production-ready codebases
+
+Ability to work independently while managing ownership of a critical solution
+
+Strong analytical thinking and problem-solving skills
+
+Clear communication skills and the ability to collaborate effectively across teams
+
+High willingness to learn and adapt to new technologies, tools, and project domains
+
+
+Preferred Qualifications
+
+Experience working with Databricks
+
+Familiarity with Power BI dashboards, including interpreting data outputs and supporting business reporting needs
+
+Exposure to machine learning or data science projects
+
+Experience improving code scalability, maintainability, and performance in a production environment
+
+Understanding of software development best practices such as version control, testing, documentation, and structured debugging
+
+Experience in environments where data products directly support business growth, sales, or commercial operations
+
+
+
+Ideal Candidate Profile
+
+The ideal candidate is:
+
+Technically strong in Python and experienced with Kedro
+Mature and intuitive with data, with the ability to spot issues, trends, and improvement opportunities
+Comfortable taking ownership of an important business solution end to end
+Curious and motivated to explore new ideas, tools, and approaches
+Proactive in troubleshooting and problem resolution
+Interested in expanding into machine learning and broader data science initiatives
+Collaborative, dependable, and aligned with a culture of continuous improvement
+
+
+Join the global Xylem team to be a part of innovative technology solutions transforming water usage, conservation, and re-use. Our products impact public utilities, industrial sectors, residential areas, and commercial buildings, with a commitment to providing smart metering, network technologies, and advanced analytics for water, electric, and gas utilities. Partner with us in creating a world where water challenges are met with ingenuity and dedication; where we recognize the power of inclusion and belonging in driving innovation and allowing us to compete more effectively around the world.
+
+
+
+Disclaimer: This job description has been sourced from a public domain and may have been modified by Naukri.com to improve clarity for our users. We encourage job seekers to verify all details directly with the employer via their official channels before applying.
+Role: Software Developer in Test (SDET)
+Industry Type: Industrial Equipment / Machinery
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+advanced analyticscommercial buildingsinformation technologydatabricksdata engineeringanalyticsdata qualitydata extractiondata sciencelead generationcomplex queriesdata scientistdebuggingcommunication skills

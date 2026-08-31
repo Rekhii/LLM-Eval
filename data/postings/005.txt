@@ -1,0 +1,69 @@
+ML Engineer, LLM Training (evals)
+eka.care
+3.569 Reviews
+eka.care logo
+1 - 3 years
+Not Disclosed
+Bengaluru
+Posted: 5 days ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+ML Engineer, LLM Training (evals)
+eka.care
+3.569 Reviews
+Apply
+Job description
+EkaCare
+ML Engineer, LLM Training
+Bengaluru Full-time Junior (1-3 yrs)
+
+About EkaCare and the mission
+EkaCare is Indias connected healthcare platform: an EMR that doctors run their practices on, a personal health record used by millions of Indians, and one of the deepest integrations with Indias ABDM digital-health rails. Our Parrotlet family of medical models already serves Indian doctors in production, and we open-source our work where it counts.
+
+The role
+Youll rotate across data, evals and training tooling with direct mentorship from the people running the big runs and grow into a pretraining or post-training specialisation within your first year.
+
+What youll do
+Run and extend the evaluation harness: benchmark sweeps, dashboards, regression tracking across checkpoints.
+Build data-quality tooling: filters, dedup checks, samplers, "look at the data" utilities everyone thanks you for.
+Monitor training runs and make their logs and metrics legible.
+Build internal tools that make researchers measurably faster.
+Learn relentlessly, paper clubs, ablation reviews, and real responsibility early.
+What we look for
+1-3 years (or even fresh graduate) with excellent coding; Python youre proud of, and the instincts to debug anything.
+ML fundamentals you can defend on a whiteboard, not just import.
+Evidence you build things nobody asked you to: repos, competition results, a tool your classmates used.
+Hunger. This team moves fast, and the learning curve is the point.
+Bonus
+Open-source PRs; Kaggle or competitive programming.
+Coursework or projects in NLP/LLMs; interest in Indic languages.
+Why this is a rare gig
+Open source, with on it : weights and technical reports ship publicly.
+India-scale mission : models for a billion people in their own languages.
+Compute that s rare to fine : dedicated multi-node H200 training under a national grant.
+Small senior team: you work with the people who own the recipe.
+A live deployment path : Government institutes, EkaCares doctors and patients use what you ship.
+
+Full-Time Employee Benefits
+Medical Insurance Accidental Insurance
+Maternity Paternity Benefits
+PF, Gratuity, Leave Encashment
+Salary Advance Policy
+
+
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Machine Learning Engineer
+Industry Type: Medical Devices & Equipment
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+PG: LLM in Law
+Key Skills
+pythondebugmedical insuranceemrllmhealthcarenodeopen sourcenlpregressionemployee benefitsml engineerintegrationsprogrammingcompetitive programmingdeploymentml
