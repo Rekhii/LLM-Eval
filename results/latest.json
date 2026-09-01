@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T07:32:01.397622+00:00",
+  "timestamp": "2026-09-01T08:32:02.089861+00:00",
   "models": [
     "gemini-3.5-flash-lite",
     "openai/gpt-oss-20b",
@@ -186,7 +186,7 @@
       "model": "gemini-3.5-flash-lite",
       "id": 10,
       "file": "010.txt",
-      "raw": "{\n  \"title\": \"GenAI / ML Engineer-Sri\",\n  \"company\": \"Tata Consultancy Services\",\n  \"location\": [\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\"title\": \"GenAI / ML Engineer-Sri\", \"company\": \"Tata Consultancy Services\", \"location\": [\"Bengaluru\"], \"years_experience\": 5, \"employment_type\": \"Full Time, Permanent\", \"education_required\": \"Any Graduate\", \"remote\": \"unclear\", \"salary_min\": null}",
       "predicted": {
         "title": "GenAI / ML Engineer-Sri",
         "company": "Tata Consultancy Services",
@@ -376,16 +376,16 @@
       "model": "gemini-3.5-flash-lite",
       "id": 20,
       "file": "020.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Anlage Infotech\",\n  \"location\": [\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field.\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Anlage Infotech\",\n  \"location\": [\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 6,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Anlage Infotech",
         "location": [
           "Bengaluru"
         ],
-        "years_experience": 5,
+        "years_experience": 6,
         "employment_type": "Full Time, Permanent",
-        "education_required": "Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field.",
+        "education_required": "Any Graduate",
         "remote": "hybrid",
         "salary_min": null
       },
@@ -631,7 +631,7 @@
       "model": "gemini-3.5-flash-lite",
       "id": 33,
       "file": "033.txt",
-      "raw": "{\"title\": \"Engineer Lead, Artificial Intelligence / Machine Learning\", \"company\": \"FIS\", \"location\": [\"Bengaluru\"], \"years_experience\": 8, \"employment_type\": \"Full Time, Permanent\", \"education_required\": \"Any Graduate\", \"remote\": \"unclear\", \"salary_min\": null}",
+      "raw": "{\n  \"title\": \"Engineer Lead, Artificial Intelligence / Machine Learning\",\n  \"company\": \"FIS\",\n  \"location\": [\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 8,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Engineer Lead, Artificial Intelligence / Machine Learning",
         "company": "FIS",
@@ -851,7 +851,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 4,
       "file": "004.txt",
-      "raw": "{\"title\":\"ML Engineer I\",\"company\":\"UST\",\"location\":[\"Mumbai\",\"Nesco\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "raw": "{\"title\":\"ML Engineer I\",\"company\":\"UST\",\"location\":[\"Mumbai\",\"Nesco\"],\"years_experience\":4,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "ML Engineer I",
         "company": "UST",
@@ -859,7 +859,7 @@
           "Mumbai",
           "Nesco"
         ],
-        "years_experience": 5,
+        "years_experience": 4,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
         "remote": "unclear",
@@ -871,17 +871,17 @@
       "model": "openai/gpt-oss-20b",
       "id": 5,
       "file": "005.txt",
-      "raw": "{\"title\":\"ML Engineer, LLM Training (evals)\",\"company\":\"eka.care\",\"location\":[\"Bengaluru\"],\"years_experience\":1,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\"title\":\"ML Engineer, LLM Training (evals)\",\"company\":\"eka.care\",\"location\":[\"Bengaluru\"],\"years_experience\":0,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "ML Engineer, LLM Training (evals)",
         "company": "eka.care",
         "location": [
           "Bengaluru"
         ],
-        "years_experience": 1,
+        "years_experience": 0,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": null
       },
       "error": null
@@ -929,10 +929,10 @@
       "model": "openai/gpt-oss-20b",
       "id": 8,
       "file": "008.txt",
-      "raw": "{\"title\":\"ML Engineer - Robotics\",\"company\":\"Deccan Ai\",\"location\":[\"Hyderabad\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\"title\":\"ML Engineer - Robotics\",\"company\":\"Deccan AI\",\"location\":[\"Hyderabad\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
       "predicted": {
         "title": "ML Engineer - Robotics",
-        "company": "Deccan Ai",
+        "company": "Deccan AI",
         "location": [
           "Hyderabad"
         ],
@@ -948,7 +948,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 9,
       "file": "009.txt",
-      "raw": "{\"title\":\"ML Engineer Adtech\",\"company\":\"Crevia Infotech\",\"location\":[\"India\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\"title\":\"ML Engineer Adtech\",\"company\":\"Crevia Infotech\",\"location\":[\"India\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "ML Engineer Adtech",
         "company": "Crevia Infotech",
@@ -958,7 +958,7 @@
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": null
       },
       "error": null
@@ -967,18 +967,17 @@
       "model": "openai/gpt-oss-20b",
       "id": 10,
       "file": "010.txt",
-      "raw": "{\"title\":\"GenAI / ML Engineer-Sri\",\"company\":\"Tata Consultancy Services\",\"location\":[\"Bengaluru\",\"Bangalore\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "raw": "{\"title\":\"GenAI / ML Engineer-Sri\",\"company\":\"Tata Consultancy Services\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
       "predicted": {
         "title": "GenAI / ML Engineer-Sri",
         "company": "Tata Consultancy Services",
         "location": [
-          "Bengaluru",
-          "Bangalore"
+          "Bengaluru"
         ],
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "unclear",
+        "remote": "onsite",
         "salary_min": null
       },
       "error": null
@@ -1025,7 +1024,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 13,
       "file": "013.txt",
-      "raw": "{\"title\":\"Engineer II, AI/Machine Learning\",\"company\":\"Edwards Lifesciences\",\"location\":[\"Pune\"],\"years_experience\":2,\"employment_type\":null,\"education_required\":\"Bachelors Degree in Engineering or technical field\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Engineer II, AI/Machine Learning\",\"company\":\"Edwards Lifesciences\",\"location\":[\"Pune\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelors Degree in Engineering or technical field\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Engineer II, AI/Machine Learning",
         "company": "Edwards Lifesciences",
@@ -1033,9 +1032,9 @@
           "Pune"
         ],
         "years_experience": 2,
-        "employment_type": null,
+        "employment_type": "Full Time, Permanent",
         "education_required": "Bachelors Degree in Engineering or technical field",
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": null
       },
       "error": null
@@ -1063,13 +1062,13 @@
       "model": "openai/gpt-oss-20b",
       "id": 15,
       "file": "015.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Careerminds\",\"location\":null,\"years_experience\":5,\"employment_type\":null,\"education_required\":\"Any Graduate\",\"remote\":\"remote\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Careerminds\",\"location\":[],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"remote\",\"salary_min\":null}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Careerminds",
-        "location": null,
+        "location": [],
         "years_experience": 5,
-        "employment_type": null,
+        "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
         "remote": "remote",
         "salary_min": null
@@ -1099,7 +1098,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 17,
       "file": "017.txt",
-      "raw": "{\"title\":\"Engineer II, AI/Machine Learning\",\"company\":\"Edwards Lifesciences\",\"location\":[\"Pune\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelors Degree in Engineering or technical field\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Engineer II, AI/Machine Learning\",\"company\":\"Edwards Lifesciences\",\"location\":[\"Pune\"],\"years_experience\":2,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelor's degree in Engineering or technical field\",\"remote\":\"onsite\",\"salary_min\":null}",
       "predicted": {
         "title": "Engineer II, AI/Machine Learning",
         "company": "Edwards Lifesciences",
@@ -1108,7 +1107,7 @@
         ],
         "years_experience": 2,
         "employment_type": "Full Time, Permanent",
-        "education_required": "Bachelors Degree in Engineering or technical field",
+        "education_required": "Bachelor's degree in Engineering or technical field",
         "remote": "onsite",
         "salary_min": null
       },
@@ -1137,7 +1136,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 19,
       "file": "019.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer III, ML Operations\",\"company\":\"Expedia\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelor's or Master's degree in a technical field (e.g., Computer Science) or equivalent relevant work experience\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Machine Learning Engineer III, ML Operations\",\"company\":\"Expedia\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelor's or Master's degree in a technical field (e.g., Computer Science) or equivalent relevant work experience.\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Machine Learning Engineer III, ML Operations",
         "company": "Expedia",
@@ -1146,7 +1145,7 @@
         ],
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
-        "education_required": "Bachelor's or Master's degree in a technical field (e.g., Computer Science) or equivalent relevant work experience",
+        "education_required": "Bachelor's or Master's degree in a technical field (e.g., Computer Science) or equivalent relevant work experience.",
         "remote": "unclear",
         "salary_min": null
       },
@@ -1175,7 +1174,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 21,
       "file": "021.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Evoke HR solution\",\"location\":[\"Hyderabad\",\"Bengaluru\"],\"years_experience\":6,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"UG: B.Tech / B.E. in Any Specialization\",\"remote\":\"hybrid\",\"salary_min\":15}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Evoke HR solution\",\"location\":[\"Hyderabad\",\"Bengaluru\"],\"years_experience\":10,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"hybrid\",\"salary_min\":15}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Evoke HR solution",
@@ -1183,9 +1182,9 @@
           "Hyderabad",
           "Bengaluru"
         ],
-        "years_experience": 6,
+        "years_experience": 10,
         "employment_type": "Full Time, Permanent",
-        "education_required": "UG: B.Tech / B.E. in Any Specialization",
+        "education_required": "Any Graduate",
         "remote": "hybrid",
         "salary_min": 15
       },
@@ -1215,7 +1214,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 23,
       "file": "023.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Leading Client\",\"location\":[\"Hyderabad\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Leading Client\",\"location\":[\"Hyderabad\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Leading Client",
@@ -1225,7 +1224,7 @@
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": null
       },
       "error": null
@@ -1272,7 +1271,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 26,
       "file": "026.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Leading Client\",\"location\":[\"Sikandrabad\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Leading Client\",\"location\":[\"Sikandrabad\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Leading Client",
@@ -1282,7 +1281,7 @@
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": null
       },
       "error": null
@@ -1291,7 +1290,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 27,
       "file": "027.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Kaara Info Systems\",\"location\":[\"Bengaluru\"],\"years_experience\":3,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"UG: Graduation Not Required\",\"remote\":\"unclear\",\"salary_min\":4}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Kaara Info Systems\",\"location\":[\"Bengaluru\"],\"years_experience\":3,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Graduation Not Required\",\"remote\":\"unclear\",\"salary_min\":4}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Kaara Info Systems",
@@ -1300,7 +1299,7 @@
         ],
         "years_experience": 3,
         "employment_type": "Full Time, Permanent",
-        "education_required": "UG: Graduation Not Required",
+        "education_required": "Graduation Not Required",
         "remote": "unclear",
         "salary_min": 4
       },
@@ -1310,26 +1309,15 @@
       "model": "openai/gpt-oss-20b",
       "id": 28,
       "file": "028.txt",
-      "raw": "{\"title\":\"Intern - Machine Learning Engineer\",\"company\":\"Rapid Acceleration Partners\",\"location\":[\"Chennai\"],\"years_experience\":null,\"employment_type\":\"Internship\",\"education_required\":null,\"remote\":\"onsite\",\"salary_min\":0}",
-      "predicted": {
-        "title": "Intern - Machine Learning Engineer",
-        "company": "Rapid Acceleration Partners",
-        "location": [
-          "Chennai"
-        ],
-        "years_experience": null,
-        "employment_type": "Internship",
-        "education_required": null,
-        "remote": "onsite",
-        "salary_min": 0
-      },
-      "error": null
+      "raw": "[{\"title\":\"Intern - Machine Learning Engineer\",\"company\":\"Rapid Acceleration Partners\",\"location\":[\"Chennai\"],\"years_experience\":null,\"employment_type\":\"Internship\",\"education_required\":null,\"remote\":\"onsite\",\"salary_min\":0},{\"title\":\"Blockchain Quality Assurance Engineer\",\"company\":null,\"location\":null,\"years_experience\":null,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}]",
+      "predicted": null,
+      "error": "JSONDecodeError: Extra data: line 1 column 224 (char 223)"
     },
     {
       "model": "openai/gpt-oss-20b",
       "id": 29,
       "file": "029.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Filuet\",\"location\":[\"Chenani\"],\"years_experience\":1,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"UG: B.Tech / B.E. in Any Specialization\",\"remote\":\"onsite\",\"salary_min\":3}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Filuet\",\"location\":[\"Chenani\"],\"years_experience\":1,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"B.Tech / B.E. in Any Specialization\",\"remote\":\"unclear\",\"salary_min\":3}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Filuet",
@@ -1338,8 +1326,8 @@
         ],
         "years_experience": 1,
         "employment_type": "Full Time, Permanent",
-        "education_required": "UG: B.Tech / B.E. in Any Specialization",
-        "remote": "onsite",
+        "education_required": "B.Tech / B.E. in Any Specialization",
+        "remote": "unclear",
         "salary_min": 3
       },
       "error": null
@@ -1367,17 +1355,17 @@
       "model": "openai/gpt-oss-20b",
       "id": 31,
       "file": "031.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Amgen Inc\",\"location\":[\"Hyderabad\"],\"years_experience\":1,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Amgen Inc\",\"location\":[\"Hyderabad\"],\"years_experience\":7,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Amgen Inc",
         "location": [
           "Hyderabad"
         ],
-        "years_experience": 1,
+        "years_experience": 7,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": null
       },
       "error": null
@@ -1411,7 +1399,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 33,
       "file": "033.txt",
-      "raw": "{\"title\":\"Engineer Lead, Artificial Intelligence / Machine Learning\",\"company\":\"FIS\",\"location\":[\"Bengaluru\"],\"years_experience\":8,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Engineer Lead, Artificial Intelligence / Machine Learning\",\"company\":\"FIS\",\"location\":[\"Bengaluru\"],\"years_experience\":8,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelors degree\",\"remote\":\"onsite\",\"salary_min\":null}",
       "predicted": {
         "title": "Engineer Lead, Artificial Intelligence / Machine Learning",
         "company": "FIS",
@@ -1420,8 +1408,8 @@
         ],
         "years_experience": 8,
         "employment_type": "Full Time, Permanent",
-        "education_required": "Any Graduate",
-        "remote": "unclear",
+        "education_required": "Bachelors degree",
+        "remote": "onsite",
         "salary_min": null
       },
       "error": null
@@ -1452,7 +1440,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 35,
       "file": "035.txt",
-      "raw": "{\"title\":\"Machine Learning Operations (MLOps) Engineer\",\"company\":\"Careernet\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"B.E., B.Tech, B.Tech M.Tech (Dual), M. Tech, M.E., M.Sc., MCA, or MCM in Computer Application or Information Science and Technology (or related field)\",\"remote\":\"hybrid\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Machine Learning Operations (MLOps) Engineer\",\"company\":\"Careernet\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"B.Tech / B.E.\",\"remote\":\"hybrid\",\"salary_min\":null}",
       "predicted": {
         "title": "Machine Learning Operations (MLOps) Engineer",
         "company": "Careernet",
@@ -1461,7 +1449,7 @@
         ],
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
-        "education_required": "B.E., B.Tech, B.Tech M.Tech (Dual), M. Tech, M.E., M.Sc., MCA, or MCM in Computer Application or Information Science and Technology (or related field)",
+        "education_required": "B.Tech / B.E.",
         "remote": "hybrid",
         "salary_min": null
       },
@@ -1471,7 +1459,7 @@
       "model": "openai/gpt-oss-20b",
       "id": 36,
       "file": "036.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Tranzeal\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"hybrid\",\"salary_min\":24}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"Tranzeal\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":24}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Tranzeal",
@@ -1481,7 +1469,7 @@
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "hybrid",
+        "remote": "onsite",
         "salary_min": 24
       },
       "error": null
@@ -1490,16 +1478,16 @@
       "model": "openai/gpt-oss-20b",
       "id": 37,
       "file": "037.txt",
-      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"MANEVA CONSULTING PRIVATE LIMITED\",\"location\":[\"Bangalore\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field.\",\"remote\":\"unclear\",\"salary_min\":null}",
+      "raw": "{\"title\":\"Machine Learning Engineer\",\"company\":\"MANEVA CONSULTING PRIVATE LIMITED\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "MANEVA CONSULTING PRIVATE LIMITED",
         "location": [
-          "Bangalore"
+          "Bengaluru"
         ],
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
-        "education_required": "Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field.",
+        "education_required": "Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field",
         "remote": "unclear",
         "salary_min": null
       },
@@ -1608,7 +1596,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 3,
       "file": "003.txt",
-      "raw": "{\n  \"title\": \"Principal/Lead Data Scientist\",\n  \"company\": \"Fractal Analytics\",\n  \"location\": [\"Mumbai\", \"Pune\", \"Chennai\", \"Gurugram\", \"Bengaluru\"],\n  \"years_experience\": 11,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": null\n}",
+      "raw": "{\"title\":\"Principal/Lead Data Scientist\",\"company\":\"Fractal Analytics\",\"location\":[\"Mumbai\",\"Pune\",\"Chennai\",\"Gurugram\",\"Bengaluru\"],\"years_experience\":11,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Principal/Lead Data Scientist",
         "company": "Fractal Analytics",
@@ -1622,7 +1610,7 @@
         "years_experience": 11,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": null
       },
       "error": null
@@ -1631,12 +1619,13 @@
       "model": "openai/gpt-oss-120b",
       "id": 4,
       "file": "004.txt",
-      "raw": "{\n  \"title\": \"ML Engineer I\",\n  \"company\": \"UST\",\n  \"location\": [\"Mumbai\"],\n  \"years_experience\": 4,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"ML Engineer I\",\n  \"company\": \"UST\",\n  \"location\": [\"Mumbai\", \"Nesco\"],\n  \"years_experience\": 4,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "ML Engineer I",
         "company": "UST",
         "location": [
-          "Mumbai"
+          "Mumbai",
+          "Nesco"
         ],
         "years_experience": 4,
         "employment_type": "Full Time, Permanent",
@@ -1650,7 +1639,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 5,
       "file": "005.txt",
-      "raw": "{\n  \"title\": \"ML Engineer, LLM Training (evals)\",\n  \"company\": \"eka.care\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 1,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": null\n}",
+      "raw": "{\"title\":\"ML Engineer, LLM Training (evals)\",\"company\":\"eka.care\",\"location\":[\"Bengaluru\"],\"years_experience\":1,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "ML Engineer, LLM Training (evals)",
         "company": "eka.care",
@@ -1660,7 +1649,7 @@
         "years_experience": 1,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": null
       },
       "error": null
@@ -1689,7 +1678,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 7,
       "file": "007.txt",
-      "raw": "{\n  \"title\": \"ML Engineer - Speech / Vision\",\n  \"company\": \"Deccan Ai\",\n  \"location\": [\"Hyderabad\"],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"ML Engineer - Speech / Vision\",\n  \"company\": \"Deccan Ai\",\n  \"location\": [\"Hyderabad\"],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "ML Engineer - Speech / Vision",
         "company": "Deccan Ai",
@@ -1699,7 +1688,7 @@
         "years_experience": 2,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "unclear",
+        "remote": "onsite",
         "salary_min": null
       },
       "error": null
@@ -1727,14 +1716,14 @@
       "model": "openai/gpt-oss-120b",
       "id": 9,
       "file": "009.txt",
-      "raw": "{\n  \"title\": \"ML Engineer Adtech\",\n  \"company\": \"Crevia Infotech\",\n  \"location\": [\"India\"],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"ML Engineer Adtech\",\n  \"company\": \"Crevia Infotech\",\n  \"location\": [\"India\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "ML Engineer Adtech",
         "company": "Crevia Infotech",
         "location": [
           "India"
         ],
-        "years_experience": 2,
+        "years_experience": 5,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
         "remote": "unclear",
@@ -1804,7 +1793,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 13,
       "file": "013.txt",
-      "raw": "{\n  \"title\": \"Engineer II, AI/Machine Learning\",\n  \"company\": \"Edwards Lifesciences\",\n  \"location\": [\"Pune\"],\n  \"years_experience\": 2,\n  \"employment_type\": null,\n  \"education_required\": \"Bachelors Degree in Engineering or technical field\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"Engineer II, AI/Machine Learning\",\n  \"company\": \"Edwards Lifesciences\",\n  \"location\": [\"Pune\"],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Bachelors Degree in Engineering or technical field\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Engineer II, AI/Machine Learning",
         "company": "Edwards Lifesciences",
@@ -1812,7 +1801,7 @@
           "Pune"
         ],
         "years_experience": 2,
-        "employment_type": null,
+        "employment_type": "Full Time, Permanent",
         "education_required": "Bachelors Degree in Engineering or technical field",
         "remote": "unclear",
         "salary_min": null
@@ -1916,7 +1905,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 19,
       "file": "019.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Engineer III, ML Operations\",\n  \"company\": \"Expedia\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate, B.Tech / B.E. in Any Specialization\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\"title\":\"Machine Learning Engineer III, ML Operations\",\"company\":\"Expedia\",\"location\":[\"Bengaluru\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Bachelor's or Master's degree in a technical field\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Machine Learning Engineer III, ML Operations",
         "company": "Expedia",
@@ -1925,7 +1914,7 @@
         ],
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
-        "education_required": "Any Graduate, B.Tech / B.E. in Any Specialization",
+        "education_required": "Bachelor's or Master's degree in a technical field",
         "remote": "unclear",
         "salary_min": null
       },
@@ -1935,16 +1924,17 @@
       "model": "openai/gpt-oss-120b",
       "id": 20,
       "file": "020.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Anlage Infotech\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field.\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Anlage Infotech\",\n  \"location\": [\"Bengaluru\", \"Bangalore\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Masters degree\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Anlage Infotech",
         "location": [
-          "Bengaluru"
+          "Bengaluru",
+          "Bangalore"
         ],
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
-        "education_required": "Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field.",
+        "education_required": "Masters degree",
         "remote": "hybrid",
         "salary_min": null
       },
@@ -1954,7 +1944,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 21,
       "file": "021.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Evoke HR solution\",\n  \"location\": [\"Hyderabad\", \"Bengaluru\"],\n  \"years_experience\": 6,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"B.Tech / B.E. in Any Specialization\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": 15\n}",
+      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Evoke HR solution\",\n  \"location\": [\"Hyderabad\", \"Bengaluru\"],\n  \"years_experience\": 6,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": 15\n}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Evoke HR solution",
@@ -1964,7 +1954,7 @@
         ],
         "years_experience": 6,
         "employment_type": "Full Time, Permanent",
-        "education_required": "B.Tech / B.E. in Any Specialization",
+        "education_required": "Any Graduate",
         "remote": "hybrid",
         "salary_min": 15
       },
@@ -1974,7 +1964,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 22,
       "file": "022.txt",
-      "raw": "{\"title\":\"Associate Architect Machine Learning Engineer\",\"company\":\"Quantiphi Analytics Solutions\",\"location\":[\"Bengaluru\",\"Mumbai\"],\"years_experience\":5,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"onsite\",\"salary_min\":null}",
+      "raw": "{\n  \"title\": \"Associate Architect Machine Learning Engineer\",\n  \"company\": \"Quantiphi Analytics Solutions\",\n  \"location\": [\"Bengaluru\", \"Mumbai\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Associate Architect Machine Learning Engineer",
         "company": "Quantiphi Analytics Solutions",
@@ -2013,10 +2003,10 @@
       "model": "openai/gpt-oss-120b",
       "id": 24,
       "file": "024.txt",
-      "raw": "{\n  \"title\": \"SWE-3 Machine Learning Engineer\",\n  \"company\": \"The Networker\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 4,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"SWE-3 Machine Learning Engineer\",\n  \"company\": \"eBay\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 4,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "SWE-3 Machine Learning Engineer",
-        "company": "The Networker",
+        "company": "eBay",
         "location": [
           "Bengaluru"
         ],
@@ -2089,7 +2079,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 28,
       "file": "028.txt",
-      "raw": "{\n  \"title\": \"Intern - Machine Learning Engineer\",\n  \"company\": \"Rapid Acceleration Partners\",\n  \"location\": [\"Chennai\"],\n  \"years_experience\": null,\n  \"employment_type\": \"Internship\",\n  \"education_required\": null,\n  \"remote\": \"onsite\",\n  \"salary_min\": 0\n}",
+      "raw": "{\n  \"title\": \"Intern - Machine Learning Engineer\",\n  \"company\": \"Rapid Acceleration Partners\",\n  \"location\": [\"Chennai\"],\n  \"years_experience\": null,\n  \"employment_type\": \"Internship\",\n  \"education_required\": null,\n  \"remote\": \"unclear\",\n  \"salary_min\": 0\n}",
       "predicted": {
         "title": "Intern - Machine Learning Engineer",
         "company": "Rapid Acceleration Partners",
@@ -2099,7 +2089,7 @@
         "years_experience": null,
         "employment_type": "Internship",
         "education_required": null,
-        "remote": "onsite",
+        "remote": "unclear",
         "salary_min": 0
       },
       "error": null
@@ -2146,7 +2136,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 31,
       "file": "031.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Amgen Inc\",\n  \"location\": [\"Hyderabad\"],\n  \"years_experience\": 7,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"B.Tech / B.E. in Any Specialization or Any Postgraduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Amgen Inc\",\n  \"location\": [\"Hyderabad\"],\n  \"years_experience\": 7,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"B.Tech / B.E. in Any Specialization\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Amgen Inc",
@@ -2155,7 +2145,7 @@
         ],
         "years_experience": 7,
         "employment_type": "Full Time, Permanent",
-        "education_required": "B.Tech / B.E. in Any Specialization or Any Postgraduate",
+        "education_required": "B.Tech / B.E. in Any Specialization",
         "remote": "unclear",
         "salary_min": null
       },
@@ -2165,7 +2155,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 32,
       "file": "032.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Micro1\",\n  \"location\": [\"Kolkata\", \"Mumbai\", \"New Delhi\", \"Hyderabad\", \"Pune\", \"Chennai\", \"Bengaluru\"],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full-time, Contractor\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"remote\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Micro1\",\n  \"location\": [\n    \"Kolkata\",\n    \"Mumbai\",\n    \"New Delhi\",\n    \"Hyderabad\",\n    \"Pune\",\n    \"Chennai\",\n    \"Bengaluru\"\n  ],\n  \"years_experience\": 2,\n  \"employment_type\": \"Full-time, Contractor\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"remote\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Micro1",
@@ -2190,7 +2180,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 33,
       "file": "033.txt",
-      "raw": "{\n  \"title\": \"Engineer Lead, Artificial Intelligence / Machine Learning\",\n  \"company\": \"FIS\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 8,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": null\n}",
+      "raw": "{\"title\":\"Engineer Lead, Artificial Intelligence / Machine Learning\",\"company\":\"FIS\",\"location\":[\"Bengaluru\"],\"years_experience\":8,\"employment_type\":\"Full Time, Permanent\",\"education_required\":\"Any Graduate\",\"remote\":\"unclear\",\"salary_min\":null}",
       "predicted": {
         "title": "Engineer Lead, Artificial Intelligence / Machine Learning",
         "company": "FIS",
@@ -2209,14 +2199,14 @@
       "model": "openai/gpt-oss-120b",
       "id": 34,
       "file": "034.txt",
-      "raw": "{\n  \"title\": \"Data Engineer with Machine Learning\",\n  \"company\": \"Virtusa\",\n  \"location\": [\"Hyderabad\", \"Chennai\", \"Pune\", \"Bangalore\"],\n  \"years_experience\": 10,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"Data Engineer with Machine Learning\",\n  \"company\": \"Virtusa\",\n  \"location\": [\"Hyderabad\", \"Pune\", \"Chennai\", \"Bangalore\"],\n  \"years_experience\": 10,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Data Engineer with Machine Learning",
         "company": "Virtusa",
         "location": [
           "Hyderabad",
-          "Chennai",
           "Pune",
+          "Chennai",
           "Bangalore"
         ],
         "years_experience": 10,
@@ -2231,7 +2221,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 35,
       "file": "035.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Operations (MLOps) Engineer\",\n  \"company\": \"Careernet\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"B.E., B.Tech, B.Tech M.Tech (Dual), M. Tech, M.E., M.Sc., MCA, or MCM in Computer Application or Information Science and Technology (or related field)\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"Machine Learning Operations (MLOps) Engineer\",\n  \"company\": \"Careernet\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"B.E., B.Tech, B.Tech M.Tech (Dual), M.Tech, M.E., M.Sc., MCA, or MCM in Computer Application or Information Science and Technology (or related field)\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
       "predicted": {
         "title": "Machine Learning Operations (MLOps) Engineer",
         "company": "Careernet",
@@ -2240,7 +2230,7 @@
         ],
         "years_experience": 5,
         "employment_type": "Full Time, Permanent",
-        "education_required": "B.E., B.Tech, B.Tech M.Tech (Dual), M. Tech, M.E., M.Sc., MCA, or MCM in Computer Application or Information Science and Technology (or related field)",
+        "education_required": "B.E., B.Tech, B.Tech M.Tech (Dual), M.Tech, M.E., M.Sc., MCA, or MCM in Computer Application or Information Science and Technology (or related field)",
         "remote": "hybrid",
         "salary_min": null
       },
@@ -2250,7 +2240,7 @@
       "model": "openai/gpt-oss-120b",
       "id": 36,
       "file": "036.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Tranzeal\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": null\n}",
+      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Tranzeal\",\n  \"location\": [\"Bengaluru\"],\n  \"years_experience\": 5,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"hybrid\",\n  \"salary_min\": 24\n}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Tranzeal",
@@ -2261,7 +2251,7 @@
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
         "remote": "hybrid",
-        "salary_min": null
+        "salary_min": 24
       },
       "error": null
     },
@@ -2329,19 +2319,19 @@
       "model": "openai/gpt-oss-120b",
       "id": 40,
       "file": "040.txt",
-      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Cloudxtreme\",\n  \"location\": [\"Kolkata\", \"Delhi / NCR\", \"Mumbai\"],\n  \"years_experience\": 4,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"unclear\",\n  \"salary_min\": 5\n}",
+      "raw": "{\n  \"title\": \"Machine Learning Engineer\",\n  \"company\": \"Cloudxtreme\",\n  \"location\": [\"Kolkata\", \"Delhi\", \"Mumbai\"],\n  \"years_experience\": 4,\n  \"employment_type\": \"Full Time, Permanent\",\n  \"education_required\": \"Any Graduate\",\n  \"remote\": \"onsite\",\n  \"salary_min\": 5\n}",
       "predicted": {
         "title": "Machine Learning Engineer",
         "company": "Cloudxtreme",
         "location": [
           "Kolkata",
-          "Delhi / NCR",
+          "Delhi",
           "Mumbai"
         ],
         "years_experience": 4,
         "employment_type": "Full Time, Permanent",
         "education_required": "Any Graduate",
-        "remote": "unclear",
+        "remote": "onsite",
         "salary_min": 5
       },
       "error": null
