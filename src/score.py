@@ -20,6 +20,9 @@ ALIASES = {
     "gurgaon": "gurugram",
     "new delhi": "delhi",
     "delhi ncr": "delhi",
+    "delhi / ncr": "delhi",
+    "delhi/ncr": "delhi",
+    "mumbai (all areas)": "mumbai",
 }
 
 REMOTE_VALUES = {"remote", "hybrid", "onsite", "unclear"}
@@ -31,7 +34,12 @@ def norm_city(c):
 
 
 def norm_text(v):
-    return None if v is None else str(v).strip().lower()
+    if v is None:
+        return None
+    s = str(v).strip()
+    if s.lower().startswith("ug: "):
+        s = s[4:]
+    return s.strip().lower()
 
 
 def matches(field, expected, predicted):
@@ -60,6 +68,7 @@ def main():
     violations = defaultdict(int)
     parse_fail = defaultdict(int)
     hallucinated_salary = defaultdict(int)
+    inferred_onsite = defaultdict(int)
     misses = []
 
     for run in data["runs"]:
@@ -73,10 +82,11 @@ def main():
             continue
 
         got_remote = predicted.get("remote")
-        if got_remote is not None and norm_text(got_remote) not in REMOTE_VALUES:
+        if got_remote is None or norm_text(got_remote) not in REMOTE_VALUES:
             violations[model] += 1
-        if got_remote is None:
-            violations[model] += 1
+
+        if expected["remote"] == "unclear" and norm_text(got_remote) == "onsite":
+            inferred_onsite[model] += 1
 
         if expected["salary_min"] is None and predicted.get("salary_min") is not None:
             hallucinated_salary[model] += 1
@@ -111,6 +121,7 @@ def main():
         ("parse failures", parse_fail),
         ("schema violations", violations),
         ("hallucinated salary", hallucinated_salary),
+        ("inferred onsite", inferred_onsite),
     ]:
         row = "".join(f"{counter[m]:>{width}}" for m in models)
         print(f"{label:<22}{row}")
