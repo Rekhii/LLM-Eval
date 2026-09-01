@@ -1,0 +1,33 @@
+AI and Machine Learning Engineer
+Hewlett Packard Enterprise
+4.04.8K Reviews
+left wingmiddle wingEmployees' choiceright wing
+Hewlett Packard Enterprise  logo
+4 - 7 years
+Not Disclosed
+Bengaluru
+Posted: 3+ weeks ago
+Openings: 1
+Applicants: 50+
+
+Continue with Google
+Company Logo
+AI and Machine Learning Engineer
+Hewlett Packard Enterprise
+4.04.8K Reviews
+left wingmiddle wingEmployees' choiceright wing
+Apply
+Job description
+< p> AI and Machine Learning Engineer< /p> < p> This role has been designed as Hybrid with an expectation that you will work on average 2 days per week from an HPE office.< /p> < p> < b> What youll do:< /b> < /p> < p> Develops and programs integrated software algorithms to structure, analyze and leverage structured and unstructured data in product and systems applications. Can work with large scale computing frameworks, data analysis systems, and modeling environments.< /p> < p> Uses machine learning and statistical modeling techniques to improve product/system performance, data management, quality, and accuracy. Formulates descriptive, diagnostic, predictive and prescriptive insights/algorithms and translates technical specifications into code. Applies, optimizes and scales deep learning technologies and algorithms to give computers the capability to visualize, learn and respond to complex situations. Documents procedures for installation and maintenance, completes programming, performs testing and debugging, defines and monitors performance metrics.< /p> < p> Contributes to the success of HPE by translating customer requirements and industry trends into AI/ML products, solutions, and systems improvement projects.< /p> < p> < b> < i> Management Level Definition:< /i> < /b> < /p> < p> Contributions include applying developed subject matter expertise to solve common and sometimes complex technical problems and recommending alternatives where necessary. Might act as project lead and provide assistance to lower level professionals. Exercises independent judgment and consults with others to determine best method for accomplishing work and achieving objectives.< /p> < p> < b> < i> Responsibilities:< /i> < /b> < /p> < ul> < li> Responsible for conducting advanced research in AI and machine learning. This includes staying up to date with the latest advancements in the field, exploring emerging technologies, and identifying opportunities to apply cutting-edge techniques to solve complex business problems.< /li> < li> Tasked with designing and architecting AI solutions for complex problems. This involves analyzing business requirements, understanding constraints, and proposing appropriate machine learning models and algorithms.< /li> < li> Responsible for considering scalability, performance, and maintainability while designing the solution.< /li> < li> Provides technical guidance and mentorship to junior team members. This includes sharing best practices, reviewing code and designs, and helping team members overcome technical challenges. Participate in technical discussions and provide thought leadership within the organization.< /li> < li> Works closely with stakeholders, such as product managers, data scientists, and business analysts, to understand their requirements and translate them into technical solutions. Collaborate with cross-functional teams to ensure alignment and successful AI and machine learning project implementation.< /li> < li> Responsible for driving continuous improvement and innovation in the organizations AI and machine learning practices. This involves identifying areas of improvement, exploring new techniques or technologies, and promoting the adoption of best practices.< /li> < li> Be involved in evaluating and integrating third-party tools or services that can enhance the capabilities of AI solutions.< /li> < li> Facilitates design review sessions for your projects, ensuring alignment with project requirements and best practices.< /li> < li> Mentor junior team members during review sessions.< /li> < li> Collaborates closely with the engineering manager and team lead to refine and iterating on design and implementation strategies, providing constructive feedback to peers.< /li> < li> Participates in and coordinates meetings, ensuring effective coordination and communication among team members.< /li> < li> Independently prepares and delivers detailed presentations and reports to stakeholders, translating complex technical concepts into understandable terms for non-technical audiences.< /li> < li> May be required to interpret and report data findings and maintain or update specific business intelligence tools, databases, dashboards, systems, or methods< /li> < /ul>
+
+Disclaimer : This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+TCPAutomationData analysisData managementSocial mediaDebuggingBusiness intelligencePythonSystem administrationRecruitment

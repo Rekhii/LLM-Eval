@@ -1,0 +1,55 @@
+SWE-3 Machine Learning Engineer
+The Networker
+The Networker logo
+4 - 9 years
+Not Disclosed
+Bengaluru
+Posted: 5 days ago
+Openings: 1
+Applicants: 21
+
+Continue with Google
+Company Logo
+SWE-3 Machine Learning Engineer
+The Networker
+Apply
+Job description
+Job Summary
+At eBay, were more than a global ecommerce leader - we re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work - every day. Were in this together, sustaining the future of our customers, our company, and our planet.
+
+Join a team of passionate thinkers, innovators, and dreamers - and help us connect people and build communities to create economic opportunity for all.
+
+About the team and the role:
+
+Looking for a company that inspires passion, courage and creativity, where you can be on the team shaping the future of global commerce Want to shape how millions of people buy, sell, connect, and share around the world If you re interested in joining a purpose-driven community that is dedicated to crafting an ambitious and inclusive work environment, join eBay - a company you can be proud to be with.
+
+eBay s Ads teams build the production systems that help buyers discover relevant inventory and help sellers grow their businesses. These systems span multiple applied ML domains, including sponsored search, item recommendations, seller guidance experiences, ranking, retrieval, personalization, and GenAI-powered capabilities.
+
+As a Machine Learning Engineer, you will help build the platforms, services, APIs, data pipelines, and MLOps capabilities that bring cutting edge AI models into production at eBay scale. You will engineer the data pipelines that feed our models, build the infrastructure to train and serve them, and develop the APIs that deliver personalized experiences to millions of users. You will work at the intersection of machine learning and software engineering, solving complex challenges in system design and the operationalization of the latest Generative AI technologies. You will partner closely with Applied Researchers, Product Managers, and Engineering teams to turn prototypes into robust, scalable, low-latency systems for millions of customers.
+
+This is a shared hiring role across Ads teams. Final team placement will be determined after offers based on each candidate s experience, strengths, and fit with the needs of Ads Recommendations, Ads Search, and Ads Guidance.
+
+What you will bring:
+
+BS in Computer Science or related area with 4+ years of relevant work experience in ML / AI / Data or Software Engineering.
+Experience in production engineering practices and software development in an OO language (Scala, Java, Python, etc.).
+Experience in big data distributed processing frameworks, e.g. Apache Hadoop, Spark, Flink.
+Experience with ML frameworks like TensorFlow and PyTorch from a production perspective.
+Proven ability to build and manage CI/CD pipelines for ML models, including proficiency with containerization (Docker, Kubernetes).
+Experience with using cloud services, big data pipelines and databases, e.g. AWS, GCP, Azure.
+Proven ability to design and build scalable, distributed systems and expose their functionality through well-designed RESTful or gRPC APIs.
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Data Platform Engineer
+Industry Type: Internet
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+algorithmscontinuous integrationci/cd pipelinescloud servicesdata pipelinesaidockercloudcontainerizationcontinuous deliveryai toolsbsapacheapisecommercedistributed systemsawsbig dataai modelsazure

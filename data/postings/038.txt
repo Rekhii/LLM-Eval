@@ -1,0 +1,70 @@
+Machine Learning Engineer
+ZeMoSo Technologies
+3.0230 Reviews
+ZeMoSo Technologies logo
+5 - 14 years
+14-35 Lacs P.A.
+Mumbai, Pune, Bengaluru
+Posted: 2 weeks ago
+Openings: 4
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+ZeMoSo Technologies
+3.0230 Reviews
+Apply
+Job description
+Location - Bangalore/Pune/Mumbai
+Notice Period - Immediate Joiner (upto 30days max.)
+
+
+About us:
+
+Zemoso Technologies is a Software Product Market Fit Studio that brings silicon valley style rapid prototyping and rapid application builds to Entrepreneurs and Corporate innovation. We offer Innovation as a service and work on ideas from scratch and take it to the Product Market Fit stage using Design Thinking->Lean Execution->Agile Methodology.
+We were featured as one of Deloitte Fastest 50 growing tech companies from India thrice (2016, 2018 and 2019). We were also featured in Deloitte Technology Fast 500 Asia Pacific both in 2016 and 2018.
+We are located in Hyderabad, India, and Dallas, US. We have recently incorporated another office in Waterloo, Canada.
+Our founders have had past successes - founded a decision management company acquired by SAP AG (now part of Hana Big data stack & NetWeaver BPM), early engineering team of Zoho (leading billion $ SaaS player) & some Private Equity experience.
+Marquee customers along with some exciting start-ups are part of our clientele.
+
+What You will do:
+Play the role of Data Analyst / ML Engineer
+Collection, cleanup, exploration and visualization of data
+Perform statistical analysis on data and build ML models
+Implement ML models using some of the popular ML algorithms
+Use Excel to perform analytics on large amounts of data
+Understand, model and build to bring actionable business intelligence out of data that is available in different formats
+Work with data engineers to design, build, test and monitor data pipelines for ongoing business operations
+
+Basic Qualifications
+Experience: 5+ years.
+Hands-on development experience playing the role of Data Analyst and/or ML Engineer.
+Experience in working with excel for data analytics
+Experience with statistical modelling of large data sets
+Experience with ML models and ML algorithms
+Coding experience in Python
+
+Nice to have Qualifications
+Experience with wide variety of tools used in ML
+Experience with Deep learning
+
+Benefits
+Competitive salary.
+Hybrid work model.
+Learning and gaining experience rapidly.
+Reimbursement for basic working set up at home.
+Insurance (including a top up insurance for COVID).
+
+Role: Other
+Industry Type: IT Services & Consulting
+Department: Other
+Employment Type: Full Time, Permanent
+Role Category: Other
+Education
+UG: B.Tech / B.E. in Any Specialization
+PG: MS/M.Sc(Science) in Any Specialization, M.Tech in Any Specialization, MCA in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Machine Learning
+TensorflowPytorchImage ProcessingNatural Language ProcessingNeural NetworksKerasComputer VisionScikit-LearnDeep LearningPython

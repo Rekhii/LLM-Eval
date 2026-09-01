@@ -27,7 +27,7 @@ Fields:
 - employment_type: e.g. "Full Time, Permanent", as a string
 - education_required: e.g. "Any Graduate", as a string
 - remote: one of "remote", "hybrid", "onsite", "unclear"
-- salary_min: minimum annual salary as a number
+- salary_min: minimum annual salary in lakhs, as a number. "15-22.5 Lacs P.A." gives 15. "Unpaid" gives 0. "Not Disclosed" gives null.
 
 Use null for any field the posting does not state. Do not guess.
 
@@ -101,6 +101,7 @@ def main():
             prompt = PROMPT.format(posting=posting)
 
             record = {"model": model, "id": task["id"], "file": task["file"]}
+            raw = ""
             try:
                 raw = call(model, provider, prompt)
                 record["raw"] = raw
@@ -108,7 +109,7 @@ def main():
                 record["error"] = None
                 print(f"  {task['id']:3}  ok")
             except Exception as e:
-                record["raw"] = locals().get("raw", "")
+                record["raw"] = raw
                 record["predicted"] = None
                 record["error"] = f"{type(e).__name__}: {e}"
                 print(f"  {task['id']:3}  FAIL  {record['error'][:60]}")

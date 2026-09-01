@@ -1,0 +1,53 @@
+Ai Ml Engineer-Pan India
+Infosys
+3.550.7K Reviews
+Infosys logo
+4 - 9 years
+10-20 Lacs P.A.
+Hybrid
+Hyderabad, Pune, Bengaluru
+Posted: 4 days ago
+Openings: 10
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Ai Ml Engineer-Pan India
+Infosys
+3.550.7K Reviews
+Apply
+Job description
+We are seeking a skilled AI/ML Engineer to independently design and build intelligent, autonomous AI agents capable of reasoning, planning, and executing tasks in dynamic environments. You will lead feature development, drive technical decisions within your workstream, and mentor junior engineers as needed.
+
+
+Design and implement production-grade agentic architectures leveraging LLMs and reasoning engines.
+Build and optimise multi-agent systems for complex task orchestration and collaboration.
+Integrate external tools, APIs, and knowledge bases for robust agent augmentation.
+Tune agent performance for autonomy, adaptability, reliability, and safety.
+Embed agentic AI into enterprise workflows in collaboration with product teams.
+Prototype advanced capabilities: persistent memory, goal planning, and self-correction loops.
+Contribute to code reviews, technical documentation, and team best practices.
+• Strong Python programming with hands-on AI/ML framework experience.
+• Working knowledge of LLMs, prompt engineering, and basic fine-tuning (LoRA/QLoRA).
+• Practical experience with agentic frameworks such as LangChain, AutoGen, or CrewAI.
+• Experience with API integration and tool-augmented agent development.
+• Understanding of responsible AI, safety guardrails, and LLM evaluation strategies.
+• Familiarity with vector stores, retrieval systems, and RAG architectures.
+
+Good to Have
+• Exposure to MLOps practices experiment tracking, model versioning (MLflow, DVC).
+• Knowledge of distributed systems and scalable backend architectures.
+• Experience with cloud AI services on Azure, AWS, or GCP.
+
+Role: Data Science & Analytics - Other
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Analytics - Other
+Education
+UG: B.Tech / B.E. in Any Specialization, Any Graduate, B.C.A. in Any Specialization, B.Sc in Any Specialization
+PG: MCA in Any Specialization, MS/M.Sc(Science) in Any Specialization, M.Tech in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Agentic Ai
+generative aiArtificial IntelligenceAimlAlRetrieval Augmented GenerationMachine LearningML

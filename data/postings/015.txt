@@ -1,0 +1,96 @@
+Machine Learning Engineer
+Talent
+3.332 Reviews
+Talent logo
+5 - 10 years
+Not Disclosed
+Remote
+Hiring office located in Remote
+Posted: 6 days ago
+Openings: 1
+Applicants: 50+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Talent
+3.332 Reviews
+Apply
+Job description
+THE COMPANY
+
+Careerminds is a leader in career transition and coaching solutions, helping organizations support employees through change while enabling workforce growth and development. Our product portfolio includes market-leading Career Transition and Coaching Services as well as Progression, our application for Career Frameworks and progression planning.
+
+THE ROLE
+
+Were growing our machine learning team. Were looking for Machine Learning Engineers who own products end to end - from the problem, to production, to the metric that proves it worked.
+
+This role exists because of how we build. A small product strategy team sets direction and priorities; engineers own the work end to end - discovery, design, build, ship, and the result. Youll have the autonomy of a founder inside your domain and the accountability that comes with it.
+
+That accountability includes the unglamorous half of ML. You own the experiment that doesnt pan out and the call to kill it, not just the launch. Wed rather you run four honest experiments and ship the one that works than ship four things that all look fine on a dashboard.
+
+AI-native development isnt an aspiration here - its the baseline. Our engineers ship with Claude Code and Claude Design as their default tools, and the leverage that creates is why one engineer can own a product end to end.
+
+We want people already working this way who want to push the ceiling higher, not people who are curious about AI. In the interview well ask you to show us the trail: repos, PRs, or shipped work you built this way.
+
+This is a 100% remote/work-from-home role.
+
+THE KEY RESPONSIBILITIES
+
+Depending on area of focus:
+
+Canonical data and entity resolution
+
+Canonical datasets for titles, companies, skills, and industries - the layer every application depends on. Content-addressed IDs, faceted taxonomies, alias graphs accumulated across tens of millions of rows.
+Rules-based resolution pipelines with LLM escalation, where the accumulated alias graph is the durable asset and escalation volume should fall over time.
+Nightly agent loops that adjudicate ambiguous entities, propose structural changes, and get gated by invariant checks and blast-radius limits before anything commits.
+Job ingestion at scale: multi-source feeds, deduplication, freshness, and the indexing economics underneath.
+Retrieval, ranking, and matching
+
+Job matching v2: two-tower retrieval with cross-encoder reranking, trained on outcome labels rather than clicks. Hard-negative mining, propensity weighting, impression-time logging.
+Mobility embeddings learned from observed career sequences - the similarity a text encoder cant recover, where Claims Adjuster and Underwriting Assistant are substitutable despite sharing no vocabulary.
+Pivot feasibility: given where someone is, what moves are realistic, whats missing, and which intermediate roles actually worked for peers.
+Applied LLMs and agents
+
+Fine-tuning where it earns its cost - against outcome labels, not for tasks a well-prompted frontier model already handles.
+Agentic systems in production with human approval gates: agents that analyze, propose changes as reviewable artifacts, and execute only after a human signs off. We have this pattern running against tens of millions of customer touchpoints a year and want to push it much further.
+Continuous skills inference from work artifacts rather than static documents - a problem several of our enterprise customers are currently solving for themselves, badly.
+New product surfaces where the right answer genuinely requires an LLM, and the discipline to notice when it doesnt.
+Across all of it
+
+Evaluation infrastructure youd defend in a design review: time-forward splits, calibration, offline-to-online agreement, and honest handling of feedback-loop degeneration and survivorship bias.
+Building inside real constraints: GDPR, EU AI Act high-risk classification for employment AI, and client data commitments are design inputs here, not someone elses problem.
+THE MUST-HAVES
+
+5+ years shipping ML systems into production - and you can name the system, the metric before and after, and how you knew the model caused the change.
+Depth in both classical ML and deep learning (PyTorch or TensorFlow) applied to live products, not notebooks and Kaggle sets.
+Working fluency with LLMs in production - retrieval, evals, prompt and context engineering, and the judgment to recognize when an LLM is the wrong tool.
+You already ship with agentic coding tools - Claude Code, Claude Design, or close equivalents - and can point to work you built with them.
+Software engineering fundamentals strong enough to own your own deploys - Python, Git, cloud (we run AWS), containers, and the patience for genuinely messy, human-authored, self-reported data.
+THE NICE-TO-HAVES
+
+Entity resolution, record linkage, or taxonomy design at scale
+Ranking, recommendation, or two-tower retrieval systems
+Sequence models on longitudinal or event-stream data
+Embedding and vector retrieval systems in production
+Experiment design, causal inference, or off-policy evaluation
+Warehouse-native ML (dbt, Snowflake, or similar)
+Labor market, HR tech, or people-data domain experience
+Open-source contributions or publications
+At Careerminds, we believe that diversity in thought and cultural background leads to better teams and stronger companies. We seek talented, qualified employees, regardless of race, color, sex/gender (including pregnancy, gender identity, and gender expression), national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under country or local law. Careerminds is proud to be an Equal Employment Opportunity Employer.
+
+Come join our team. Together, we ll help others tell their career stories and land their dream jobs.
+
+
+
+Disclaimer: This job posting & Location has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Blockchain Quality Assurance Engineer
+Industry Type: Management Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate
+PG: LLM in Law
+Key Skills
+embeddingsdata domaincloudclaudeclaude codedeep learninggitpytorchsoftware engineeringradiusdashboardmlfrontiersnowflakepythonindexinghr techaiminingclassificationllmmachine learninggdprdbtaws

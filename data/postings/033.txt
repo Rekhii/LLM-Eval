@@ -1,0 +1,99 @@
+Engineer Lead, Artificial Intelligence / Machine Learning
+FIS
+3.76.8K Reviews
+FIS logo
+8 - 13 years
+Not Disclosed
+Bengaluru
+Posted: 1 week ago
+Applicants: 50+
+
+Continue with Google
+Company Logo
+Engineer Lead, Artificial Intelligence / Machine Learning
+FIS
+3.76.8K Reviews
+Apply
+Job description
+About the team
+The Client Office Custom Development CoE team is a horizontal Center of Excellence for the Client Office, helping drive revenue growth and deliver significant cost savings by identifying, designing, and implementing GenAI and Agentic AI solutions at enterprise scale.
+The Client Office is one of the three major verticals at FIS, supporting a wide range of products and solutions across funds management, cleared derivatives, commercial lending, corporate treasury, insurance risk, electronic trading, RegTech, wealth, and retirement.
+The team is composed of highly motivated Product Engineers, Functional SMEs, QAs, Architects, GitHub copilot experts focused on embedding AI into realworld delivery workflows.
+What you will be doing
+As an Artificial Intelligence / Machine Learning Engineer Lead, you will play a pivotal role in driving the enterprise rollout of GitHub Copilot across the Services organization and building AI agents and agentic workflows that accelerate software delivery.
+You will work closely with development, QA, and technical consulting teams to enable handson adoption of AIassisted engineering, establish prompt and agent standards, and embed responsible AI practices into daytoday delivery
+What you bring:
+Knowledge / Experience
+8+ years of overall experience, with 4+ years working on AI / GenAI / Agentic AI
+Experience designing and building applications using GitHub copilot
+Experience in driving GitHub adoption across enterprise
+Experience in prompt engineering
+Proven experience building agentbased systems, including planning, memory, tool usage, and orchestration
+Handson experience implementing agentic workflows, including:
+Multiagent collaboration
+Humanintheloop systems
+Semiautonomous task execution
+Experience integrating AI systems with enterprise platforms, APIs, repositories, and workflows
+Strong experience evaluating model, agent, and system behavior for accuracy, reliability, grounding, and safety
+Experience with vector databases and retrieval systems, including RAG and hybrid retrieval patterns
+Experience building and deploying REST services using Flask or FastAPI
+Experience working with cloud platforms (Azure, AWS, or GCP) and AI/ML studios
+Skills
+Strong hands-on experience with Large Language Models (LLMs) and GitHub copilot.
+Familiarity with LangChain, Langgraph,LlamaIndex, Autogen, or OpenAI Assistants API
+Strong proficiency in Python.
+Deep understanding of Agents Agentic AI systemsincluding autonomous decisionmaking, tool/function calling, planning, and orchestration.
+Proficiency with prompting techniques, structured outputs, model routing, and context/memory management.
+Understanding of different model types:
+Proprietary (e.g., GPT-class)
+Open-weight models
+Embedding models
+Multimodal models
+Understanding of AI orchestration frameworks (conceptual level acceptable)
+Knowledge of model access and orchestration protocols such as Model Context Protocol (MCP) or similar abstraction layers
+Ability to design systems that:
+Switch models
+Route prompts
+Manage context, memory, and toolchains
+Experience evaluating GenAI systems (hallucinations, grounding, safety)
+Experience with ML/AI frameworks such as:
+scikitlearn
+TensorFlow
+PyTorch
+Keras
+pandas
+Hands-on experience building RESTful APIs using Flask or FastAPI
+Nice to Have
+Experience with LLM finetuning, parameterefficient tuning (LoRA/QLoRA)
+Working knowledge of productiongrade MLOps (CI/CD, monitoring, observability)
+Experience with vector DBs like Pinecone, Chroma, Redis, Weaviate, or Milvus
+Understanding of security, compliance, and data governance for GenAI systems
+Qualifications
+Bachelors degree in engineering or related field or the equivalent combination of education, training, or work experience
+Competencies
+Fluent in English
+Excellent communicator ability to discuss technical and commercial solutions to internal and external parties and adapt depending on the technical or business focus of the discussion.
+Attention to detail track record of authoring high quality documentation.
+Organized approach manage and adapt priorities according to client and internal requirements.
+Self-starter but team mindset - work autonomously and as part of a global team
+What we offer you
+A multifaceted job with a high degree of responsibility and a broad spectrum of opportunities
+A broad range of professional education and personal development possibilities FIS is your final career step!
+A competitive salary and benefits
+A variety of career development tools, resources and opportunities
+Privacy Statement
+FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the .
+Sourcing Model
+#pridepass
+Role: Solution Architect
+Industry Type: BPM / BPO
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Ai
+AzureCommercial LendingComplianceGithubAi SolutionsApisArtificial IntelligenceElectronic TradingCopilotAuthoringCloud PlatformsAi FrameworksGcpCloudGithub CopilotKerasDesign SystemsAwsData GovernanceFlask

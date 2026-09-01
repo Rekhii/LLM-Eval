@@ -1,0 +1,56 @@
+Machine Learning Engineer III, ML Operations
+Expedia
+3.6395 Reviews
+Expedia logo
+5 - 10 years
+Not Disclosed
+Bengaluru
+Posted: 5 days ago
+Openings: 1
+Applicants: 37
+
+Continue with Google
+Company Logo
+Machine Learning Engineer III, ML Operations
+Expedia
+3.6395 Reviews
+Apply
+Job description
+Job Summary
+The Meta/SEM Bidding Programs team at Expedia Group is looking for a Machine Learning Engineer III who mentors junior engineers, applies modern data and ML engineering principles to improve existing systems, and leads complex, well-defined projects in a high-scale production environment.
+
+In this role, you will:
+Collaborate with peers and stakeholders across the organization to understand cross-dependencies, shape solutions, and translate experimental DS workflows into robust production pipelines.
+Develop, refactor, and test complex ML and software components, applying solid software engineering practices (design principles, data structures, design patterns) to produce clean, maintainable, and optimized code.
+Contribute to the design of big data and ML applications, including how models are trained, evaluated, and served at scale across batch and streaming (online) inference workflows.
+Evaluate, monitor, and operate ML models in production, instrumenting pipelines to capture online and offline metrics (latency, throughput, accuracy/quality, drift, and business KPIs) and using them to drive iteration.
+Diagnose model and pipeline issues (e.g., performance regressions, instability), distinguish data drift vs. model drift, and drive mitigations such as retraining, recalibration, and feature or architecture changes.
+Design and implement guardrails for production models (safety constraints, thresholds, fallbacks, safe defaults) to protect customer and business outcomes and improve reliability.
+Use AI as a co-pilot across the software and ML engineering lifecycle-to clarify requirements, accelerate coding, strengthen automated tests, support model evaluation, and improve delivery while applying generative AI and large language model (LLM) techniques responsibly where they add value.
+Identify and address areas of inefficiency in code, model architectures, and system operations (including memory/compute efficiency), recommending and implementing improvements to observability, policies, and processes.
+Experience and Qualifications
+5+ years of relevant professional experience with end-to-end machine learning engineering pipelines in production (feature engineering, model training, validation, deployment, scoring, monitoring, and iteration), including streaming applications in hybrid/cloud environments.
+Bachelor's or Master's degree in a technical field (e.g., Computer Science) or equivalent relevant work experience.
+Strong command of Spark (or similar big data frameworks), including evaluating, optimizing, and debugging large-scale data processing applications.
+Proficiency with ML libraries such as PyTorch and/or TensorFlow, and experience integrating models into production services for inference at scale.
+Solid ML fundamentals with working knowledge of deep learning and big data concepts, and demonstrated experience refactoring and scaling ML models for production (latency, throughput, and memory footprint).
+Hands-on experience evaluating and monitoring ML models in production, including metric and alert design, feedback loops, and basic MLOps practices (CI/CD for ML, experiment tracking, model registry, deployment and observability tools).
+Familiarity with secure data access and governance (e.g., IAM policies for S3, access patterns for training and serving) and with designing moderately complex distributed systems centered on ML training and serving.
+Working knowledge of generative AI and LLMs (e.g., prompting, RAG, fine-tuning, embeddings/vector stores, evaluation) and their responsible, production-grade application is strongly preferred.
+Hands-on experience using AI-assisted engineering tools (e.g., GitHub Copilot, Claude Code, or equivalent) across the software and ML development lifecycle, consistent with Expedia Group's expectation that engineers actively build and apply AI skills.
+Accommodation requests
+Expedia Group is committed to providing an inclusive and accessible recruiting experience. If you need an accommodation or adjustment due to a disability during the application or recruiting process, please submit a request.
+
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Blockchain Quality Assurance Engineer
+Industry Type: Hotels & Restaurants
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate, B.Tech / B.E. in Any Specialization
+PG: LLM in Law, Any Postgraduate
+Key Skills
+embeddingscopilotbiddingdata processingengineering toolsaiadvertisingcloudclaudeclaude codedeep learningb2bdesign patternsdebuggingdistributed systemsdata structuresbig dataarchitecturedeployment

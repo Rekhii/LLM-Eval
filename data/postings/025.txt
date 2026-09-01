@@ -1,0 +1,65 @@
+Principal Machine Learning Engineer
+Amgen Inc
+2.8199 Reviews
+Amgen Inc logo
+12 - 17 years
+Not Disclosed
+Hyderabad
+Posted: 5 days ago
+Applicants: Less than 10
+
+Continue with Google
+Company Logo
+Principal Machine Learning Engineer
+Amgen Inc
+2.8199 Reviews
+Apply
+Job description
+Job Description
+ABOUT AMGEN
+Amgen harnesses the best of biology and technology to fight the worlds toughest diseases, and make peoples lives easier, fuller and longer. We discover, develop, manufacture and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting-edge of innovation, using technology and human genetic data to push beyond whats known today.
+ABOUT THE ROLE
+Role Summary
+Principal-level AIML Engineer responsible for designing and deploying advanced AI/ML systems with a strong focus on Reinforcement Learning (RL) and decision intelligence. Will act as a technical leader driving scalable AI solutions from research to production across enterprise platforms.
+Key Responsibilities
+Design and develop Reinforcement Learning models (RL, RLHF, multi-agent RL) for real-world decision-making problems
+Build and deploy scalable ML pipelines and production AI systems using MLOps best practices
+Architect end-to-end AI systems integrating RL with GenAI, LLMs, or agent-based frameworks
+Lead development of agent-based / multi-agent AI systems for planning, reasoning, and automation
+Translate research concepts into production-grade, reliable ML systems
+Partner with data scientists, engineers, and product teams to deliver enterprise AI solutions
+Evaluate new AI techniques (RLHF, agentic systems, deep RL) and drive adoption
+Mentor engineers and provide technical leadership and architectural guidance
+Must-Have Skills
+Strong expertise in Reinforcement Learning (Deep RL, Policy Optimization, RLHF)
+Hands-on experience building production AI/ML systems at scale
+Strong programming in Python
+Experience with MLOps (MLflow, Kubeflow, SageMaker, etc.)
+Knowledge of Distributed Systems & Cloud (AWS/Azure/GCP)
+Experience in model deployment, monitoring, and lifecycle management
+Strong understanding of ML/DL algorithms and optimization techniques
+Good-to-Have
+Experience with multi-agent systems / agentic AI frameworks
+Exposure to LLMs, RAG, or Generative AI systems
+Experience with simulation environments (Gym, RLlib, etc.)
+Background in optimization, control systems, or operations research
+Qualifications
+Bachelors or Masters in Computer Science, AI, ML, or related field
+12 to 17 years experience in ML/AI engineering or related domains
+Behavioral / Leadership Expectations
+Strong technical leadership and mentoring capability
+Ability to translate complex AI concepts into business impact
+Ownership mindset with end-to-end delivery focus
+Collaboration across global teams
+Role: Data Platform Engineer
+Industry Type: Pharmaceutical & Life Sciences
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Machine Learning
+BiotechnologyAzureAutomationGenerative AiAi SolutionsOperations ResearchAiReinforcement LearningProgrammingTechnical LeadershipResearchDistributed SystemsAlgorithmsGcpCloudAwsMlopsPython

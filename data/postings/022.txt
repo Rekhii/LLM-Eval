@@ -1,0 +1,60 @@
+Associate Architect Machine Learning Engineer
+Quantiphi Analytics Solutions
+3.01K Reviews
+Quantiphi Analytics Solutions logo
+5 - 8 years
+Not Disclosed
+Bengaluru, Mumbai (All Areas)
+Posted: 1 week ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Associate Architect Machine Learning Engineer
+Quantiphi Analytics Solutions
+3.01K Reviews
+Apply
+Job description
+Role: Associate Architect Machine Learning Engineer
+
+Experience Level: 5+ Years
+
+Work location: Bangalore/Mumbai
+
+
+Roles & Responsibilities:
+
+Developing high-level solution architectures and working with our offshore team of big-data engineers and decision science analysts to build, test and assess models that predict and optimize business outcomes based on client's success criteria.
+Developing code and model building as per project requirements
+Develop sophisticated yet simple interpretations and communicate insights to clients that lead to quantifiable business impact.
+Building deep relationships with clients by understanding their stated but more importantly, latent needs.
+Mentoring Junior Machine Learning engineers
+Working closely with the offshore delivery managers to ensure a seamless communication and delivery cadence.
+Researching and identifying sales opportunity, generating leads, target identification and classification
+
+Required Skills:
+
+Hands-on experience with statistical tools and techniques
+Great analytical skills, with expertise in analytical toolkits such as Logistic Regression, Cluster Analysis, Factor Analysis, Multivariate Regression, Statistical modelling, predictive analysis.
+Should have worked on GenAl projects in the past
+Hands on experience with Python, Pyspark and SQL development
+Hands on experience of NLP related use cases
+Hands on experience of LLMs
+Experience productionising machine learning models, and managing and designing end to end ML systems, and data pipelines
+Hands on experience with cloud AWS Cloud and AWS services
+Ability to think creatively and work well both as part of a team and as an individual contributor Critical eye for the quality of data and strong desire to get it right.
+A pleasantly forceful personality and charismatic communication style.
+Strong communication skills.
+
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+generative aiNatural Language ProcessingMachine LearningRag architecture
+Predictive ModelingPysparkAWS SagemakerLLMPythonSQLML

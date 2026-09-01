@@ -1,0 +1,40 @@
+Ai Ml Engineer
+Tata Consultancy Services
+3.2118.5K Reviews
+Tata Consultancy Services logo
+6 - 10 years
+Not Disclosed
+Indore, Pune, Chennai
+Posted: 6 days ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Ai Ml Engineer
+Tata Consultancy Services
+3.2118.5K Reviews
+Apply
+Job description
+Role & responsibilities
+
+
+
+Design, develop, and deploy scalable AI/ML and Generative AI solutions on AWS using Bedrock, SageMaker, Lambda, and related services.
+Build and optimize Agentic AI applications using LangChain and LangGraph, including multi-agent workflows and orchestration.
+Develop LLM-powered solutions leveraging Claude and other foundation models, with expertise in prompt engineering, RAG, fine-tuning, and model evaluation.
+Integrate AI solutions with enterprise applications, APIs, and cloud-native architectures.
+Ensure AI solutions meet scalability, security, performance, and reliability requirements.
+Collaborate with cross-functional teams to define AI strategy, architecture, and best practices.
+Drive innovation through adoption of emerging AI technologies, frameworks, and industry best practices.
+Provide technical leadership, mentoring, and support for AI/ML initiatives.
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Graduation Not Required
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Artificial IntelligenceMachine LearningAWSPython

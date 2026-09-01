@@ -1,0 +1,102 @@
+Intern - Machine Learning Engineer
+Rapid Acceleration Partners
+4.421 Reviews
+Rapid Acceleration Partners logo
+No fixed duration
+Unpaid
+Chennai
+Starts in 1-3 months
+
+Internship
+
+Posted: 1 week ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Intern - Machine Learning Engineer
+Rapid Acceleration Partners
+4.421 Reviews
+Apply
+Description
+Intern - Machine Learning Engineer
+Role Overview
+We are looking for a hands-on Machine Learning Engineering Intern with a strong understanding of the modern AI stack. The ideal candidate understands how LLMs work, can navigate a real codebase, and is comfortable using AI tools to accelerate their work without becoming dependent on them.
+
+You will be embedded directly in our engineering team and contribute to AI pipelines, APIs, and agent systems under the mentorship of senior ML engineers. Expect meaningful responsibility, thoughtful code reviews, and production exposure from day one.
+
+Must-Have Requirements
+The following are non-negotiable. Candidates who cannot demonstrate these will not be considered regardless of other strengths.
+
+LLM Fundamentals & Prompting
+Clear understanding of how LLMs work, including tokenization, context windows, temperature, structured output formatting, LLM guardrails, and hallucination prevention.
+
+Proficiency in prompting techniques such as few-shot prompting, system prompts, structured outputs, role prompting, and reasoning-oriented prompts.
+Familiarity with recent model releases, capability shifts, and architectural developments.
+Ability to run inference on local LLMs using tools like Ollama, VLLM, or Hugging Face Transformers
+AI Systems & Engineering
+Moderate to strong understanding of RAG architecture, including chunking, embeddings, retrieval, reranking, and generation.
+Working knowledge of AI agents, tool use, and agent orchestration frameworks such as LangChain, LlamaIndex, AutoGen, or custom frameworks.
+Understanding of MCP (Model Context Protocol) and AI skills/tool design
+Transformer architecture basics - attention mechanism, encoder/decoder, positional encoding, embeddings
+Python & Backend Engineering
+Strong Python skills, including clean, idiomatic code, proper error handling, algorithm design, and type hints.
+Ability to work with structured outputs: JSON schema, Pydantic models, data validation patterns
+Flask API development: REST endpoints, request/response handling, middleware
+Fundamental understanding of API scaling, including async and sync patterns and basic load considerations.
+Version control proficiency: Git branching, PRs, commit hygiene, resolving conflicts
+AI Tools & Codebase Navigation
+Ability to independently navigate an existing, non-trivial codebase using AI-assisted tools (Cursor, Claude, ChatGPT, GitHub Copilot, etc.)
+Uses AI tools to boost velocity - but can reason through code independently and does not require AI to explain every line
+Computer Vision & Document AI
+Rough working knowledge of image processing concepts: preprocessing, transformations, color spaces
+Familiarity with OCR tools and their practical limitations (Tesseract, Docling, AWS Textract, etc.).
+Basic awareness of object detection concepts (bounding boxes, YOLO-style models)
+Communication & Collaboration
+Ability to articulate technical decisions clearly in review calls and project syncs without needing repeated prompting to explain reasoning.
+Comfortable discussing system design trade-offs and architecture choices with leads and peers
+Strong written communication for async updates, PRs, and documentation
+Good-to-Have Skills
+Candidates with these will have an advantage, but they are not disqualifying to be missing.
+
+Docker: containerizing Python services, multi-stage builds, docker-compose for local stacks
+Deep RAG expertise: Graph RAG, hybrid retrieval, vector database internals (Pinecone, Weaviate, Qdrant, pgvector)
+Custom LLM agent design: memory management, multi-step reasoning, tool routing, state machines
+Agent observability: tracing, logging agent runs, dashboards (LangSmith, Phoenix, custom)
+LLM/VLM fine-tuning: PEFT methods (LoRA, QLoRA), GRPO, instruction tuning pipelines
+Frontend / UI basics: HTML/CSS/JS or Streamlit for internal tooling and demos
+Active participation in product and solution architecture discussions
+Awareness of the latest releases, frameworks, and modern technologies, with the ability to choose current, practical solutions instead of relying on outdated approaches.
+What We Expect From You
+Independent execution
+You will be assigned tasks and expected to drive them to completion with minimal hand-holding.
+You should be able to take a vague requirement, ask the right clarifying questions, and convert it into working code.
+AI-augmented, not AI-dependent
+We expect you to use AI tools to move faster; that is the right instinct.
+We do not expect you to rely on AI for tasks you should already understand, such as debugging your own logic, reading stack traces, or justifying architectural decisions.
+Takes direction well, executes better
+You should be able to absorb guidance from managers and tech leads and translate it into concrete action without repeated follow-up
+Keep feedback loops tight by flagging blockers early and communicating progress proactively.
+High standards
+Our systems are client-facing, so code quality, correctness, and documentation matter.
+You will be expected to review your own work before pushing it, not just submit first drafts
+What You Will Work On
+LLM-powered document intelligence pipelines (extraction, structuring, generation)
+RAG systems with multi-source retrieval, reranking, and structured output formatting
+AI agent workflows with tool use, memory, and multi-step orchestration
+Flask- or FastAPI-based APIs that wrap AI capabilities for client-facing deployment
+Local LLM inference setups and evaluation harnesses
+
+
+Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying.
+Role: Blockchain Quality Assurance Engineer
+Industry Type: Internet
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate
+PG: LLM in Law
+Key Skills
+Image processingDebuggingMachine learningSystem designHTMLJSONWindowsMiddlewareInternshipPython

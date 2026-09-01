@@ -1,0 +1,66 @@
+Machine Learning/Gen Ai Engineer
+Nisum
+2.8209 Reviews
+Nisum logo
+8 - 10 years
+20-35 Lacs P.A.
+Hybrid
+Hyderabad
+Posted: 1 week ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Machine Learning/Gen Ai Engineer
+Nisum
+2.8209 Reviews
+Apply
+Job description
+What You'll Do:
+
+Deploy, scale, and operate ML and Generative AI systems in cloud-based production environments (Azure preferred).
+Build and manage enterprise-grade RAG applications using embeddings, vector search, and retrieval pipelines.
+Implement and operationalize agentic AI workflows with tool use, leveraging frameworks such as LangChain and LangGraph.
+Develop reusable infrastructure and orchestration for GenAI systems using Model Context Protocol (MCP) and AI Development Kit (ADK).
+Design and implement model and agent serving architectures, including APIs, batch inference, and real-time workflows.
+Establish best practices for observability, monitoring, evaluation, and governance of GenAI pipelines in production.
+Integrate AI solutions into business workflows in collaboration with data engineering, application teams, and stakeholders.
+Drive adoption of MLOps / LLMOps practices, including CI/CD automation, versioning, testing, and lifecycle management.
+Ensure security, compliance, reliability, and cost optimization of AI services deployed at scale.
+
+What You Know:
+
+8 to 10 years of experience in ML Engineering, AI Platform Engineering, or Cloud AI Deployment roles.
+Strong proficiency in Python, with experience building production-ready AI/ML services and workflows.
+Proven experience deploying and supporting GenAI applications in real-world enterprise environments.
+Experience with orchestration frameworks including but not limited to LangChain, LangGraph, and LangSmith.
+Strong knowledge of model serving, inference pipelines, monitoring, and observability for AI systems.
+Experience working with cloud AI ecosystems (Azure AI, Azure ML, Databricks preferred).
+Familiarity with containerization and deployment tools (Docker, Kubernetes, REST
+
+Education:
+
+Bachelors degree in computer science, Information Systems, Engineering, Computer Applications, or related field.
+Benefits:
+
+In addition to competitive salaries and benefits packages, Nisum India offers its employees some unique and fun extras:
+Continuous Learning - Year-round training sessions are offered as part of skill enhancement certifications sponsored by the company on an as need basis. We support our team to excel in their field.
+Parental Medical Insurance - Nisum believes our team is the heart of our business and we want to make sure to take care of the heart of theirs. We offer opt-in parental medical insurance in addition to our medical benefits.
+Activities -From the Nisum Premier League's cricket tournaments to hosted Hack-a-thon, Nisum employees can participate in a variety of team building activities such as skits, dances performance in addition to festival celebrations.
+Free Meals - Free snacks and dinner is provided on a daily basis, in addition to subsidized lunch.
+
+Note: Immediate to 15 days
+
+
+Role: Data Science & Analytics - Other
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Analytics - Other
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+generative ai
+MLOpsDockerLLMOpsAzure DatabricksCi/CdAzure Machine LearningMachine LearningPythonKubernetes

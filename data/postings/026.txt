@@ -1,0 +1,49 @@
+Machine Learning Engineer
+Leading Client
+Posted by Tekskills
+Leading Client logo
+5 - 10 years
+Not Disclosed
+Sikandrabad
+Posted: 1 week ago
+Openings: 1
+Applicants: 50+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Leading Client
+Posted by Tekskills
+Apply
+Job description
+Job Summary
+ML Engineer (Senior Lead Engineer Product Analytics & AI/ML)
+
+Responsibilities
+Build scalable ML models & RAG pipelines
+Work on cloud-native AI solutions (AWS/Azure/GCP)
+Implement MLOps & CI/CD pipelines
+Deploy and monitor production-grade ML systems
+Lead and mentor engineering teams
+Requirements
+5+ yrs in ML Engineering
+Strong Python + ML frameworks
+Experience in model deployment & cloud platforms
+Hands-on with Docker, Kubernetes, MLOps tools
+Good communication & leadership skills
+Good to Have
+GCP Certifications
+Agile/Scrum experience
+Product-based company exposure
+Role: Data Platform Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+machine learning
+kubernetesmlopsmicroservicesdockeranalyticscloudtensorflowproduct analyticsgcppytorchragazuremldeploymentpythonai solutionsairflowaicloud platformscloud nativescrumagileml engineeraws

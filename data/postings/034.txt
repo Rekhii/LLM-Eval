@@ -1,0 +1,61 @@
+Data Engineer with Machine Learning
+Virtusa
+3.66.4K Reviews
+Virtusa logo
+10 - 15 years
+Not Disclosed
+Hyderabad, Pune, Chennai
+Posted: 1 week ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Data Engineer with Machine Learning
+Virtusa
+3.66.4K Reviews
+Apply
+Job description
+
+Data Engineer with Machine Learning
+Work Mode :Hybrid
+Work Location : Hyderabad , Chennai , Pune , Bangalore
+Work Timing : 2 PM to 11 PM
+Primary : Data Engineer ,Machine Learning ,AWS
+
+Job Summary
+
+Data Architect Consultant to design and define the end-to-end architecture for an AI-ready, feature-store-capable enterprise data platform (MDR). The ideal candidate will assess the current MDR architecture and recommend enhancements to transition from a passive repository to a first-class feature management ecosystem.
+
+Responsibilities
+
+Architect the Data Foundation Layer to manage raw and standardized source data effectively.
+Engineer the Feature Store Layer to support reusable, governed model features, including lineage management and refresh frequency.
+Define and implement core Feature Store entities to ensure consistency and reusability.
+Design the Model Execution Layer architecture for seamless production scoring inputs and outputs.
+Establish a comprehensive Monitoring & Governance Layer to track KPIs, data drift, model performance, and explainability.
+Organize the data architecture around key business objects like Counterparties, Loans, Facilities, and Exposures.
+Design and deploy scalable batch and real-time feature ingestion pipelines using modern data engineering frameworks.
+Collaborate with cross-functional teams to define data quality standards, metadata frameworks, and MLOps practices.
+Mandatory Skills
+
+Proven experience as a Data Architect with a focus on feature management ecosystems.
+Strong understanding of data architecture principles and best practices.
+Experience with data ingestion pipelines and modern data engineering frameworks.
+Expertise in managing data lineage, calculation logic, and governance.
+Preferred Skills
+
+Familiarity with AI/ML concepts and practices.
+Experience in working with cloud-based data platforms.
+Knowledge of data quality and metadata management frameworks
+Role: Machine Learning Engineer
+Industry Type: Financial Services
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Data EngineerGovernanceAWS
+Artificial IntelligenceMachine Learning

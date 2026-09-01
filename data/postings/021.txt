@@ -1,0 +1,63 @@
+Machine Learning Engineer
+Evoke HR solution
+Posted by Evoke HR
+Evoke HR solution  logo
+10 - 12 years
+15-22.5 Lacs P.A.
+Hybrid
+Hyderabad, Bengaluru
+Posted: 4 days ago
+Openings: 10
+Applicants: 50+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Evoke HR solution
+Posted by Evoke HR
+Apply
+Job description
+Were hiring a Senior Data / ML Engineer to build and scale production-grade AI and agentic systems that solve real business problems. This role is hands-on and engineering-heavy, focused on taking AI from prototype to reliable, governed production systems.
+
+
+What You’ll Do
+
+Build and deploy LLM-powered applications and agentic workflows (single & multi-agent).
+
+Design and implement RAG pipelines, embeddings, and vector search.
+
+Develop end-to-end ML/LLM pipelines from data ingestion to inference and monitoring.
+
+Productionize AI systems with cost controls, observability, and guardrails.
+
+Integrate AI solutions into enterprise workflows and platforms.
+
+Collaborate with product, platform, and governance teams to deliver responsible AI.
+
+Required Skills and Qualifications:
+
+6+ years of experience in Data Engineering, ML Engineering, or Applied AI.
+
+Hands-on experience deploying LLM-based systems in production.
+
+Strong Python skills and experience with scalable systems.
+
+Experience with agent frameworks (LangChain, LlamaIndex, AutoGen, CrewAI, or similar).
+
+Solid understanding of RAG, vector databases, embeddings, and prompt optimization.
+
+Familiarity with MLOps, monitoring, and cost/performance trade-offs.
+
+
+Role: IT & Information Security - Other
+Industry Type: IT Services & Consulting
+Department: IT & Information Security
+Employment Type: Full Time, Permanent
+Role Category: IT & Information Security - Other
+Education
+UG: B.Tech / B.E. in Any Specialization
+PG: MCA in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Machine Learning
+LangchainArtificial IntelligenceAimlragAlLLMPythonML

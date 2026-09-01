@@ -1,0 +1,74 @@
+Machine Learning Engineer
+Amgen Inc
+2.8199 Reviews
+Amgen Inc logo
+7 - 9 years
+Not Disclosed
+Hyderabad
+Posted: 1 week ago
+Openings: 1
+Applicants: 24
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Amgen Inc
+2.8199 Reviews
+Apply
+Job description
+ABOUT THE ROLE
+
+You will play a key role in a regulatory submission content automation initiative which will modernize and digitize the regulatory submission process, positioning Amgen as a leader in regulatory innovation. The initiative leverages state-of-the-art technologies, including Generative AI, Structured Content Management, and integrated data to automate the creation, review, and approval of regulatory content.
+
+Role Description:
+
+We are seeking a highly skilled Machine Learning Engineer with a strong MLOps background and experience working with Large Language Models (LLMs) to join our team. You will play a pivotal role in building and scaling our machine learning models and LLM applications from development to production. Your expertise in both machine learning and operations will be essential in creating efficient and reliable pipelines and applications.
+
+Roles Responsibilities:
+
+Develop and deploy applications that utilize LLMs such as OpenAI GPT 4, Claude, Gemini
+Build and maintain MLOps pipelines, including data ingestion, versioning, chunking, vectorization, feature engineering, model training, deployment, and monitoring.
+Leverage cloud platforms (AWS, GCP, Azure) for ML model development, training, and deployment.
+Implement DevOps/MLOps/LLMOps best practices to automate ML workflows and improve efficiency.
+Develop and implement monitoring systems to track model performance and identify issues.
+Conduct A/B testing and experimentation to optimize model performance.
+Work closely with data scientists, engineers, and product teams to deliver ML solutions.
+Stay updated with the latest trends and advancements
+Functional Skills:
+
+Must-Have Skills:
+
+Strong foundation in machine learning algorithms and techniques
+Proficiency in Python and relevant ML libraries (e.g., TensorFlow, PyTorch, Scikit-learn, langchain)
+Familiar with AWS, Azure, or Google Cloud;
+Good-to-Have Skills:
+
+Experience in building custom solutions using LLMs to meet specific business needs
+Experience in DevOps tools (e.g., Docker, Kubernetes, CI/CD)
+Experience with data engineering and pipeline development
+Soft Skills:
+
+Excellent analytical and troubleshooting skills.
+Strong verbal and written communication skills
+Ability to work effectively with global, virtual teams
+High degree of initiative and self-motivation.
+Ability to manage multiple priorities successfully.
+Team-oriented, with a focus on achieving team goals
+Strong presentation and public speaking skills.
+Basic Qualifications:
+
+Masters degree and 1-3 years of experience in Software Engineering, Data Science or Machine Learning Engineering preferred OR
+Bachelors degree and 3 to 5 years of Software Engineering, Data Science or Machine Learning Engineering OR
+Diploma and 7 to 9 years of I Software Engineering, Data Science or Machine Learning Engineering experience
+Role: Search Engineer
+Industry Type: Pharmaceutical & Life Sciences
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech / B.E. in Any Specialization
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+machine learning
+kubernetesmlopspythonaicloud platformsllmdata engineeringcontent managementdockertensorflowautomationdata sciencegcpdevopspytorchfeature engineeringsoftware engineeringawsazuredevops tools

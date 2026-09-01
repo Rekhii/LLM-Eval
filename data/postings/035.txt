@@ -1,0 +1,56 @@
+Machine Learning Operations (MLOps) Engineer
+Careernet
+Posted by Careernet
+Careernet logo
+5 - 10 years
+Not Disclosed
+Hybrid
+Bengaluru
+Posted: 1 week ago
+Openings: 5
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Machine Learning Operations (MLOps) Engineer
+Careernet
+Posted by Careernet
+Apply
+Job description
+
+Key Skills: MLOps, Vertex AI (Google), DevOps, GCP, Python, ML Flow, Kubeflow
+
+Roles and Responsibilities:
+
+Design, build, and maintain scalable MLOps frameworks on GCP, including repeatable deployment processes across environments.
+Automate ML model deployment and lifecycle management, including versioning, artifact handling, retraining, rollback, and release governance.
+Implement CI/CD pipelines for ML applications and services, integrating source control, testing, and deployment workflows.
+Apply infrastructure automation practices (IaC) to provision and manage environments reliably across development, testing, and production.
+Ensure production readiness through monitoring, alerting, observability, and operational support for deployed ML workloads.
+Skills Required:
+
+5 - 8 years of experience in Cloud Engineering, MLOps, or ML Platform Engineering.
+DevOps practices for production engineering and operational excellence.
+Google Cloud Platform (GCP) engineering experience for cloud-native ML operations.
+MLOps experience, including model lifecycle management and operationalization patterns.
+Vertex AI (Google) for deploying and managing ML models in production.
+Good to Have:
+
+Python for building and operationalizing ML model workflows.
+Education: B.E., B.Tech, B.Tech M.Tech (Dual), M. Tech, M.E., M.Sc., MCA, or MCM in Computer Application or Information Science and Technology (or related field).
+
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: B.Tech / B.E. in Any Specialization
+PG: MCA in Any Specialization, MS/M.Sc(Science) in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+DevOpsMLOpsGCPVertex AI (Google)Python
+KubeflowML Flow
+About company
+
+A Large Global Organization

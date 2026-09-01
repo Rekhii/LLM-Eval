@@ -1,0 +1,56 @@
+Machine Learning Engineer
+Broadridge
+3.81.6K Reviews
+Broadridge logo
+6 - 10 years
+Not Disclosed
+Hybrid
+Bengaluru
+Posted: 5 days ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Broadridge
+3.81.6K Reviews
+Apply
+Job description
+
+What Youll Do
+
+Build and deploy LLM-powered applications and agentic workflows (single & multi-agent).
+Design and implement RAG pipelines, embeddings, and vector search.
+Develop end-to-end ML/LLM pipelines from data ingestion to inference and monitoring.
+Productionize AI systems with cost controls, observability, and guardrails.
+Integrate AI solutions into enterprise workflows and platforms.
+Collaborate with product, platform, and governance teams to deliver responsible AI.
+
+What We’re Looking For
+
+
+6+ years of experience in Data Engineering, ML Engineering, or Applied AI.
+Hands-on experience deploying LLM-based systems in production.
+Strong Python skills and experience with scalable systems.
+Experience with agent frameworks (LangChain, LlamaIndex, AutoGen, CrewAI, or similar).
+Solid understanding of RAG, vector databases, embeddings, and prompt optimization.
+Familiarity with MLOps, monitoring, and cost/performance trade-offs.
+
+Nice to Have
+
+Experience in regulated or enterprise environments.
+Exposure to AI governance, explainability, or risk controls.
+Background in document intelligence or NLP-heavy systems.
+
+
+Role: Machine Learning Engineer
+Industry Type: FinTech / Payments
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Agentic AiLLMRetrieval Augmented GenerationMachine Learning

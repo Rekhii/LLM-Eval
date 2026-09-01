@@ -1,0 +1,65 @@
+Machine Learning Engineer
+Leading Global IT Service and Consulting...
+Posted by Anlage Infotech
+Leading Global IT Service and Consulting Organisation logo
+6 - 11 years
+Not Disclosed
+Hybrid
+Bengaluru
+Posted: 4 days ago
+Openings: 1
+Applicants: 50+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Leading Global IT Service and Consulting...
+Posted by Anlage Infotech
+Apply
+Job description
+
+
+Years of Experience: 6.0-15.0 Years
+
+
+Job Title: Machine Learning /AIML Engineer (Python Coding with ML Experience)
+
+
+Location: Bangalore
+
+
+Notice period: Immediate to 30days only
+
+
+
+Job Summary: We are seeking a highly skilled and versatile Machine Learning Engineer who embodies the rare combination of a strong software engineer and ML exposure with experience in designing, developing, and maintaining robust, scalable, and efficient software applications using Python, with a strong emphasis on Object-Oriented Programming principles to manage hyperparameters, encapsulate evaluation metrics, and create controlled interfaces for model wrappers. You will be instrumental in designing, developing, deploying, and maintaining our core AI-powered products and features. This demands a blend of analytical rigor, coding prowess, architectural foresight, and a deep understanding of the entire machine learning lifecycle, from data exploration and model development to deployment, monitoring, and continuous improvement.
+
+
+Required Qualifications:
+
+Education: Masters degree in computer science, Machine Learning, Data Science, Electrical Engineering, or a related quantitative field.
+Experience: 5+ years of professional experience in Machine Learning Engineering, Software Engineering with a strong ML focus, or a similar role.
+Must have Programming Skills: Expert-level proficiency in Python, including experience with writing production-grade, clean, efficient, and well-documented code. Experience with other languages (e.g., Java, Go, C++) is a plus.
+Strong Software Engineering Fundamentals: Deep understanding of software design patterns, data structures, algorithms, object-oriented programming, and distributed systems.
+Good to have Machine Learning Expertise:
+Solid theoretical and practical understanding of various machine learning algorithms
+Proficiency with ML frameworks such as PyTorch, Scikit-learn.
+Experience with feature engineering, model evaluation metrics, and hyperparameter tuning
+Data Handling: Experience with SQL and NoSQL databases, data warehousing concepts, and processing large datasets.
+Problem-Solving: Excellent analytical and problem-solving skills, with a pragmatic approach to delivering solutions.
+Communication: Strong verbal and written communication skills, with the ability to explain complex technical concepts to both technical and non-technical audiences.
+Preferred Qualifications:
+
+Experience with big data technologies (e.g., Spark, Hadoop, Kafka).
+Contributions to open-source projects or a strong portfolio of personal projects.
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Data StructuresMachine LearningAlgorithmsAimlPython
+Algorithm DevelopmentSQLML AlgorithmsMLOpsAi AlgorithmsAlgorithm DesignData Structures and AlgorithmsMachine Learning AlgorithmsData Modeling

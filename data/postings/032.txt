@@ -1,0 +1,58 @@
+Machine Learning Engineer
+Micro1
+Micro1 logo
+2 - 5 years
+Not Disclosed
+Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru
+Posted: 3+ weeks ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Micro1
+Apply
+Job description
+Job Title: Machine Learning Engineer
+Job Type: Full-time, Contractor
+About Us:
+Our mission at micro1 is to match the most talented people in the world with their dream jobs
+If you are looking to be at the forefront of AI innovation and work with some of the fastest-growing companies in Silicon Valley, we invite you to apply for a role
+By joining the micro1 community, your resume will become visible to top industry leaders, unlocking access to the best career opportunities on the market
+Job Summary:
+Join our dynamic team as a Machine Learning Engineer dedicated to pushing the boundaries of AI technologies
+We are seeking an insightful and innovative engineer to contribute to our ongoing project with a focus on end-to-end development and deployment of ML/AI solutions involving OCR technologies
+Key Responsibilities
+Design and implement scalable machine learning models and AI solutions
+Develop, test, and deploy end-to-end ML pipelines with a focus on OCR technologies
+Collaborate with cross-functional teams to understand project objectives and deliver impactful solutions
+Ensure data integrity and proper data management using MongoDB and other tools
+Analyze and improve the efficiency, scalability, and stability of deployed models
+Document and communicate project progress, highlighting technical challenges and solutions
+Stay updated with the latest advancements in machine learning, AI, and OCR technologies
+Deployment on AWS environment
+Model training
+Reinforced learning
+Required Skills and Qualifications
+Proficiency in Python and its libraries for machine learning
+Strong understanding and practical experience with machine learning algorithms and AI principles
+Proven experience with MongoDB for data management and integration
+Excellent written and verbal communication skills, demonstrating the ability to convey technical concepts clearly
+Experience in the complete development and deployment lifecycle of an ML/AI project
+Capacity to work independently and collaboratively in a remote environment
+Preferred Qualifications
+Experience with Optical Character Recognition (OCR) technologies
+Familiarity with cloud platforms and deploying models on cloud infrastructure
+Previous experience in building models for large-scale data applications
+Show more Show less
+Role: Blockchain Quality Assurance Engineer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+machine learning algorithmsmachine learningawsmongodbartificial intelligencecommunication skillsml

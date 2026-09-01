@@ -1,0 +1,79 @@
+Associate Machine Learning Engineer
+Amgen Inc
+2.8199 Reviews
+Amgen Inc logo
+3 - 5 years
+Not Disclosed
+Hyderabad
+Posted: 1 week ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Associate Machine Learning Engineer
+Amgen Inc
+2.8199 Reviews
+Apply
+Job description
+ABOUT THE ROLE
+Role Description:
+TheAssociate Machine Learning Engineerposition offers a unique opportunity to join a fun, innovative engineering team within theAI Data Science(AID)organization.Youllwork on next-generation capabilities and services inAppliedAIAutomationusing innovativeCOTS products,open-source software, frameworks, tools, and cloud computing services. The role also emphasizesdemonstratingthese capabilities to support critical business operations and initiatives,in ensuring quality, compliance, and performance across AmgensApplied AI Automation Footprint.
+The role is responsible forbuilding and scaling ourAI andmachineslearningsolutionsfrom development to production. YourexpertiseinMLOpswill be essential in creating efficient and reliable ML pipelines.The rolerepresentsworking inthe solution engineering and DevOps teams to lead the transition from Intelligent automation to Agentic Process Automation andensuresthat strategy and implementation remain connected throughout the value stream.The ideal candidate has experience inbuilding AI ML solutions,hasexcellent communication skills, and anunderstanding ofAgile methodologies.
+This role focuses on supporting the development, deployment, operation, and reliability of AI andLLMbasedsolutions in production environments, working under guidance of senior engineers and platform teams. The position emphasizes operational excellence, observability, and compliance for applied AI and GenAI systems.
+Roles Responsibilities:
+Collaborate with data scientists to develop, train, and evaluate machine learning models.
+Build and maintainMLOpspipelines, including data ingestion, feature engineering, model training, deployment, and monitoring.
+Leverage cloud platforms (AWS,Databricks) for ML model development, training, and deployment.
+Develop solutions usingDevSecOpsframeworkthatare secure, scalable, reliable, and aligned with enterprise architecture standards.
+Evaluate model performance usingappropriate metricsandoptimizemodels for accuracy and efficiency
+Develop and execute unit tests, integration tests, and other testing strategies to ensure the quality of the software
+Create andmaintaindocumentation on software architecture, design, deployment, disaster recovery, and operations
+Identifyand resolve technical challenges effectively
+Provide ongoing support and maintenance for applications, ensuringthattheyoperatesmoothly and efficiently
+Analyze customer feedback and support data toidentifypain points and opportunities for improvement
+Evaluate and recommend technologies and tools that best fit the solution requirements
+Support operationalization of machine learning and GenAI models developed by data scientists and solution teams.
+Assistin evaluating model and LLM performance using metrics related to reliability, efficiency, and response quality.
+Support deployment and operation ofLLMbasedworkflows, including prompt configurations,retrievalaugmentedgeneration (RAG) pipelines, andagentbasedautomations.
+Assistwith monitoring AI and LLM systems for availability, latency, error rates, and quality degradation.
+Support model, prompt, and pipeline versioning across development, test, and production environments.
+Participate in incident triaging, root cause analysis, and rollback or mitigation activities for AI services.
+Assistwith evaluation runs for LLM outputs, including grounding, reliability, and safety checks.
+Follow established AI governance, security, and compliance standards whenoperatingAI and GenAI solutions.
+Monitor AI and LLM endpoints for availability, latency, throughput, and error rates using enterprise monitoring tools.
+Assistwith dashboards, alerts, runbooks, and operational documentation to support reliable AI system operations.
+Basic Qualifications and Experience:
+Any degree and 3 to 5 years of Computer Science,ITor related field experience
+Functional Skills:
+Must-Have Skills:
+Strong foundations in machine learning algorithms and techniques
+Experience inMLOpspractices and tools (e.g.,MLflow, Kubeflow, Airflow); Experience in model monitoring, including model observability and explainability
+Proficiencyin Python (or R) and relevant ML libraries (e.g., TensorFlow,PyTorch, Scikit-learn)
+Experience with big data technologies (e.g., Spark, Hadoop), and performance tuning in query and data processing
+Understanding of the LLM inference lifecycle, including prompt execution, retrieval, and response generation.
+Awareness of common LLM failure modes such as hallucinations, prompt injection, and data leakage.
+Good-to-Have Skills:
+Goodunderstanding of cloud platforms (e.g., AWS,Databricks) and containerization technologies (e.g., Docker, Kubernetes)
+Experience with monitoring and logging tools (e.g., Prometheus, Grafana, Splunk)
+Experience with data processing tools like Hadoop, Spark, or similar
+Knowledge of GenAI tooling: vector databases, RAG pipelines, prompt-engineeringDSLsand agent frameworks (e.g.,LangChain, Semantic Kernel).
+Ability to analyze client requirements and translate them into solutions
+Exposure to LLM evaluation techniques beyond accuracy, including grounding, faithfulness, latency, andreliability ofmetrics.
+Soft Skills:
+Excellentcritical-thinking andproblem-solving skills
+Strong communicationand collaboration skills
+Demonstrated awareness of how to function in a team setting
+Demonstrated awareness of presentation skills
+Role: Data Platform Engineer
+Industry Type: Pharmaceutical & Life Sciences
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Machine Learning
+AirflowTensorflowComplianceArchitectureHadoopFeature EngineeringCustomer FeedbackAiBig DataPrometheusLlmDevopsData SciencePytorchRCloud ComputingDockerSparkDatabricksAwsPythonKubernetes

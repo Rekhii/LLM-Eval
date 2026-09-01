@@ -1,0 +1,93 @@
+Machine Learning Engineer
+Tranzeal
+4.68 Reviews
+Tranzeal logo
+4 - 5 years
+4-5 Lacs P.A.
+Bengaluru
+Posted: 1 week ago
+Openings: 1
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Tranzeal
+4.68 Reviews
+Apply
+Job description
+
+AI/ML Engineer Agentic AI / LLM
+
+AI/ML Engineer – Agentic AI / LLM
+Work mode: 4 days from Office
+Location: ITPL, Bengaluru
+Salary: 24 LPA MAX
+AI/ML Engineer – Agentic AI / LLM
+
+Experience:  5 Years | Job Type: Full-Time
+
+Role Overview
+
+We are looking for an AI/ML Engineer with 5 years of experience, including 3+ years of hands-on experience in Agentic AI OR LLM/Generative AI.
+
+The engineer will work with technical and project teams to design, develop, integrate, and deploy AI/ML solutions. The role requires strong Python and software engineering skills, along with practical experience building AI-powered applications.
+
+Key Responsibilities
+
+Design and develop AI/ML solutions and applications using Python.
+Build and integrate LLM/Generative AI applications or AI agent solutions based on project requirements.
+Develop RAG-based applications, prompt workflows, and LLM integrations where required.
+Build AI agents using frameworks such as LangGraph, LangChain, CrewAI, AutoGen, or PydanticAI.
+Integrate AI solutions with REST APIs, databases, and existing enterprise applications.
+Develop and maintain scalable AI services using FastAPI or similar frameworks.
+Deploy and support AI/ML applications on Azure and/or Databricks.
+Work with development and platform teams on CI/CD, testing, deployment, monitoring, and production support.
+Maintain clean, reusable, and well-documented code using Git and standard development practices.
+Understand project requirements and work with technical teams to deliver practical AI solutions.
+Required Skills
+
+5 years of experience in AI/ML, Machine Learning, Artificial Intelligence, or related software engineering roles.
+3+ years of hands-on experience in Agentic AI OR LLM/Generative AI.
+Strong Python development experience.
+Practical experience with LLMs, RAG, prompt engineering, or AI agents.
+Experience with at least one framework such as LangGraph, LangChain, CrewAI, AutoGen, or PydanticAI.
+Experience with REST APIs and application integration.
+Familiarity with Azure and/or Databricks.
+Experience with Git and CI/CD practices.
+Good communication and problem-solving skills.
+Good to Have
+
+Experience with both Agentic AI and LLM/Generative AI.
+Exposure to MLOps/LLMOps and AI application monitoring.
+Experience with Azure OpenAI, Azure AI Search, vector databases, MLflow, or LangSmith.
+Familiarity with Docker, Kubernetes, or event-driven architectures.
+Experience using AI-assisted development tools such as GitHub Copilot, Windsurf, or Codeium.
+Education
+
+Bachelor's or master's degree in computer science , AI/ML, Data Science, Engineering, or a related technical field.
+
+Experience Requirement
+
+Overall Experience: 5 years
+Relevant Experience: 3+ years in Agentic AI OR LLM/Generative AIRole & responsibilities
+
+
+
+Preferred candidate profile
+
+
+
+Perks and benefits
+
+
+
+Role: Machine Learning Engineer
+Industry Type: Financial Services
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+Key Skills
+Agentic Aillm

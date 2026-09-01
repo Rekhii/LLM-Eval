@@ -1,0 +1,45 @@
+Machine Learning Engineer
+Kaara Info Systems
+Kaara Info Systems logo
+3 - 8 years
+4-16 Lacs P.A.
+Bengaluru
+Posted: 6 days ago
+Openings: 4
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Kaara Info Systems
+Apply
+Job description
+Roles and Responsibilities :
+
+Design and build scalable backend services and REST/gRPC APIs for AI-powered products.
+Architect and deploy cloud-native solutions on AWS using services such as ECS/EKS, Lambda, SQS, S3, RDS/Aurora, and Bedrock.
+Build and maintain LLM integration layers, including prompt pipelines, RAG systems, and vector stores.
+Develop and deploy agentic workflows using LangGraph, CrewAI, AutoGen, Semantic Kernel, or comparable frameworks.
+Own MLOps/LLMOps pipelines covering model serving, evaluation, monitoring, and observability.
+Collaborate with product, engineering, and machine learning teams to productionize AI capabilities.
+Apply appropriate security, reliability, scalability, and governance controls across the AI platform lifecycle.
+Job Requirements :
+
+3-6 years of experience in AI/ML  Engineering or a related field.
+Strong backend engineering capability using Python and/or Node.js/Go.
+Hands-on AWS experience, including serverless architecture and container orchestration.
+Production experience with OpenAI, Anthropic, Amazon Bedrock, or open-source large language models.
+Hands-on experience with at least one agentic framework.
+Experience with vector databases such as Pinecone, Weaviate, or pgvector.
+Strong understanding of RAG architecture, embeddings, and prompt engineering.
+Role: Machine Learning Engineer
+Industry Type: BPM / BPO
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Graduation Not Required
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Artificial IntelligenceGenerative Artificial IntelligenceMachine LearningAWSPython
+Large Language ModelRetrieval Augmented Generation

@@ -1,0 +1,65 @@
+Machine Learning Engineer
+Amgen Inc
+2.8199 Reviews
+Amgen Inc logo
+2 - 5 years
+Not Disclosed
+Hyderabad
+Posted: 6 days ago
+Applicants: 100+
+
+Continue with Google
+Company Logo
+Machine Learning Engineer
+Amgen Inc
+2.8199 Reviews
+Apply
+Job description
+We are seeking a Machine Learning Engineerto build, deploy and operate scalable machine-learning and generative-AI solutions at Amgen. Working at the intersection of software engineering and data science, you will help transform models and AI prototypes into reliable, secure and production-ready applications and services.
+You will collaborate closely with data scientists, senior ML engineers, DevOps, Security, Compliance and Product teams to develop ML pipelines, model services and AI applications using modern cloud, MLOps and GenAI technologies. The role requires strong hands-on engineering skills, a solid understanding of machine-learning techniques and an interest in building enterprise-grade AI solutions.
+
+
+Roles Responsibilities
+Develop end-to-end ML pipelinescovering data ingestion, feature engineering, evaluation, model registration and deployment using Kubeflow, SageMaker Pipelines or equivalent MLOps platforms.
+Productionize machine-learning and GenAI modelsby converting research and prototype code into reliable services, packaging applications using Docker and Kubernetes, and exposing models through secure REST, gRPC or event-driven APIs.
+Build AI and GenAI applicationsby integrating ML/LLM services with user interfaces, APIs, workflow engines and business-logic layers to deliver model-generated insights to end users.
+Develop and implement GenAI solutionsusing LLMs, prompt engineering, embeddings, vector databases, Retrieval-Augmented Generation (RAG) and agent-based frameworks.
+Implement monitoring and observabilityfor production ML applications, including model-performance metrics, application logs, distributed tracing, data/model drift detection and operational dashboards.
+Apply security and responsible-AI practicesincluding access controls, encryption, data lineage, model explainability, bias monitoring and secure handling of enterprise data.
+Develop reusable ML platform componentssuch as model-serving templates, feature-engineering utilities, experiment-tracking integrations and common libraries that improve development efficiency across teams.
+Perform exploratory data analysis and feature engineeringon structured and unstructured datasets to identify patterns, assess data quality and support model development.
+Evaluate and benchmark machine-learning algorithmsincluding regression, tree-based models, clustering, time-series approaches, deep-learning architectures and LLM-based techniques based on business and technical requirements.
+Collaborate with data scientiststo transition experiments and prototypes into scalable production implementations while maintaining model accuracy, reliability and reproducibility.
+Participate in code reviews, testing and CI/CD practicesto ensure ML services meet engineering quality, maintainability and deployment standards.
+Troubleshoot production ML systemsand work with platform and DevOps teams to resolve model, application, infrastructure and integration issues.
+Document technical designs, implementation patterns and operational proceduresto support maintainability and knowledge sharing across engineering teams.
+
+
+Must-Have Skills
+2-5 years of experiencein machine learning, AI, data engineering or enterprise software development.
+Strong understanding of core machine-learning algorithms, including regression, classification, tree-based ensembles, clustering, dimensionality reduction and time-series modeling.
+Experience with GenAI/agent development frameworks such as LangChain or equivalent frameworks.
+Strong programming skills in Python, with experience developing production-quality software. Experience with Java or another enterprise programming languageis preferred.
+Experience building and consuming REST APIs, microservices and model-serving applications.
+Hands-on experience with Docker and Kubernetesor equivalent containerization and orchestration technologies.
+Experience with at least one major cloud platform such as AWS, including managed AI/ML services.
+Familiarity with MLOps and DevOps practices, including CI/CD, experiment tracking, model registries, automated testing, model deployment and monitoring.
+Experience with tools or platforms such as SageMaker, Bedrock, Kubeflow, MLflow, GitHub Actions or equivalent technologies.
+Understanding of model monitoring, data drift, model drift, explainability and responsible-AI concepts.
+Familiarity with relational and NoSQL databases and experience working with structured and unstructured data.
+Strong software-engineering fundamentals, including Git, testing, debugging, API design and object-oriented programming.
+Ability to analyze technical requirements, evaluate implementation options and communicate engineering trade-offs effectively.
+Strong collaboration and communication skills, with the ability to work effectively with data scientists, engineers, product teams and business stakeholders.
+Ability to translate business requirements into practical machine-learning and AI solutions while balancing model performance, scalability, reliability and cost.
+Role: Blockchain Quality Assurance Engineer
+Industry Type: Pharmaceutical & Life Sciences
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Quality Assurance and Testing
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Ai
+Data IngestionApi DesignData EngineeringComplianceAi SolutionsApisAutomated TestingCloud PlatformClusteringBedrockBusiness RequirementsCommunication SkillsAlgorithmsContainerizationClassificationCloudAws
