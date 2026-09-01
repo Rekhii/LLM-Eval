@@ -152,11 +152,10 @@ pip install -r requirements.txt
 
 Put your keys in a `.env` file:
 
-
+```
 GEMINI_API_KEY=...
 GROQ_API_KEY=...
-
-
+```
 
 Both are free tiers with no credit card. Then:
 
