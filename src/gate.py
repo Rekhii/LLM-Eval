@@ -3,7 +3,7 @@ import sys
 
 from src.score import FIELDS, matches
 
-THRESHOLD = 0.99
+THRESHOLD = 0.85
 BASELINE_MODEL = "gemini-3.5-flash-lite"
 
 

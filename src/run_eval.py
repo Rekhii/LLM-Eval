@@ -95,9 +95,7 @@ def main():
     for model, provider in MODELS.items():
         print(f"\n{model}")
         for task in tasks:
-            posting = open(
-                f"data/postings/{task['file']}", encoding="utf-8"
-            ).read()
+            posting = open(f"data/postings/{task['file']}", encoding="utf-8").read()
             prompt = PROMPT.format(posting=posting)
 
             record = {"model": model, "id": task["id"], "file": task["file"]}
@@ -128,6 +126,9 @@ def main():
 
     failed = sum(1 for r in runs if r["error"])
     print(f"\n{len(runs)} runs, {failed} failed, written to results/latest.json")
+
+    if failed == len(runs):
+        raise SystemExit("Every call failed. Check API keys.")
 
 
 if __name__ == "__main__":
